@@ -1,46 +1,34 @@
 {
   "meta": {
     "index": {
-      "title": "Quoc Khanh Uniform - Professional Uniform Manufacturing in Hanoi",
-      "description": "Quoc Khanh Uniform Vietnam Company Limited - Professional manufacturing, design, and processing of corporate uniforms, student uniforms, safety workwear, restaurant and hotel uniforms in Hanoi"
+      "title": "Thanh Mich IMEX - Professional Import Export and Trading Company",
+      "description": "Thanh Mich Import Export and Trading Production Company Limited - Professional import-export services, wholesale of furniture and household goods"
     },
     "about": {
-      "title": "About Us - Quoc Khanh Uniform | Production Capacity",
-      "description": "About Quoc Khanh Uniform Vietnam Company Limited - Professional uniform manufacturing with over 5 years of experience in the apparel industry"
+      "title": "About Us - Thanh Mich IMEX | Import Export Company",
+      "description": "About Thanh Mich Import Export and Trading Production Company Limited - Professional import-export services with over 5 years of experience in international trade"
     },
     "services": {
-      "title": "Services - Quoc Khanh Uniform | High-Quality Uniform Manufacturing",
-      "description": "Quoc Khanh Uniform's uniform manufacturing services: Corporate uniforms, student uniforms, safety workwear, restaurant and hotel uniforms. High quality, competitive prices in Hanoi"
+      "title": "Services - Thanh Mich IMEX | Import Export & Trading Services",
+      "description": "Thanh Mich IMEX's services: Import-export, furniture wholesale, trading services. High quality, competitive prices"
     },
     "contact": {
-      "title": "Contact - Quoc Khanh Uniform | Quote & Consultation",
-      "description": "Contact Quoc Khanh Uniform - Professional uniform manufacturer in Hanoi. Address: No. 3, Group 4, Phuc Loi Ward, Long Bien District, Hanoi. Phone: 0366 333 168"
+      "title": "Contact - Thanh Mich IMEX | Import Export Consultation",
+      "description": "Contact Thanh Mich IMEX - Professional import-export company. Address: Te Giap Village, Hat Mon Commune, Hanoi. Phone: 0857 281 982"
     },
     "policies": {
-      "title": "Policies - Quoc Khanh Uniform | Warranty - Delivery - Return",
-      "description": "Warranty, delivery, and return policies of Quoc Khanh Uniform. Commitment to the best product quality and service for customers"
+      "title": "Policies - Thanh Mich IMEX | Warranty - Delivery - Return",
+      "description": "Warranty, delivery, and return policies of Thanh Mich IMEX. Commitment to the best product quality and service for customers"
     },
     "privacy": {
-      "title": "Privacy Policy - Quoc Khanh Uniform",
-      "description": "Privacy policy of Quoc Khanh Uniform Vietnam Company Limited - Commitment to protecting customer information"
-    },
-    "process": {
-      "title": "Production Process - Quoc Khanh Uniform | From Design to Delivery",
-      "description": "Professional uniform production process of Quoc Khanh Uniform: From consultation, design, production to delivery. Ensuring quality and timeline"
-    },
-    "portfolio": {
-      "title": "Projects & Clients - Quoc Khanh Uniform | Uniform Portfolio",
-      "description": "Featured projects and clients of Quoc Khanh Uniform - Over 500 successful uniform projects for companies, schools, and safety wear"
-    },
-    "news": {
-      "title": "News & Blog - Quoc Khanh Uniform | Apparel Industry Updates",
-      "description": "News and blog about the apparel industry, uniform trends, uniform selection experience from Quoc Khanh Uniform"
+      "title": "Privacy Policy - Thanh Mich IMEX",
+      "description": "Privacy policy of Thanh Mich Import Export and Trading Production Company Limited - Commitment to protecting customer information"
     }
   },
   "common": {
-    "logo": "QUOC KHANH UNIFORM",
+    "logo": "THANH MICH IMEX",
     "tagline": "Quality - Trust - Professionalism",
-    "phone": "0366 333 168",
+    "phone": "0857 281 982",
     "contactNow": "Contact Now",
     "nav": {
       "home": "Home",
@@ -53,21 +41,21 @@
       "contact": "Contact"
     },
     "footer": {
-      "companyDesc": "Quoc Khanh Uniform Vietnam Company Limited - Professional uniform manufacturing and processing in Hanoi",
-      "address": "No. 3, Group 4, Phuc Loi Ward, Long Bien District, Hanoi",
-      "email": "contact@uniform-quockhanh.store",
+      "companyDesc": "Thanh Mich Import Export and Trading Production Company Limited - Professional import-export and furniture wholesale services",
+      "address": "Te Giap Village, Hat Mon Commune, Hanoi, Vietnam",
+      "email": "contact@thanhmichltd.store",
       "services": "Services",
       "info": "Information",
       "support": "Support",
-      "corporateUniform": "Corporate Uniforms",
-      "studentUniform": "Student Uniforms",
-      "safetyUniform": "Safety Workwear",
-      "hotelUniform": "Restaurant - Hotel Uniforms",
+      "importExport": "Import Export",
+      "furniture": "Furniture Wholesale",
+      "trading": "Trading Services",
+      "consulting": "Business Consulting",
       "warrantyPolicy": "Warranty Policy",
       "deliveryPolicy": "Delivery Policy",
       "returnPolicy": "Return Policy",
       "companyInfo": "Company Information",
-      "copyright": "2024 Quoc Khanh Uniform Vietnam Company Limited. Tax ID: 0108735264"
+      "copyright": "2024 Thanh Mich Import Export and Trading Production Company Limited. Tax ID: 0108850813"
     },
     "breadcrumb": {
       "home": "Home"
@@ -75,44 +63,44 @@
   },
   "index": {
     "hero": {
-      "title": "Professional High-Quality Uniform Specialist",
-      "subtitle": "Manufacturing - Design - Processing of corporate uniforms, student uniforms, safety workwear to international standards",
+      "title": "Professional Import Export and Trading Specialist",
+      "subtitle": "Professional import-export services, wholesale of furniture and household goods with international standards",
       "viewServices": "View Services",
-      "getQuote": "Get Quote"
+      "getQuote": "Contact Us"
     },
     "services": {
       "title": "Main Services",
-      "subtitle": "We provide comprehensive uniform solutions for all needs",
-      "corporate": {
-        "title": "Corporate Uniforms",
-        "desc": "Professional corporate uniform design and manufacturing, impressively representing your company brand",
+      "subtitle": "We provide comprehensive import-export and trading solutions",
+      "import": {
+        "title": "Import Export Services",
+        "desc": "Professional import-export services, customs clearance support, international shipping",
         "detail": "Details →"
       },
-      "student": {
-        "title": "Student Uniforms",
-        "desc": "Durable, beautiful, breathable student uniforms, meeting Vietnamese education standards",
+      "furniture": {
+        "title": "Furniture Wholesale",
+        "desc": "Wholesale of beds, cabinets, tables, chairs and similar furniture with high quality and competitive prices",
         "detail": "Details →"
       },
-      "safety": {
-        "title": "Safety Workwear",
-        "desc": "Safety workwear meeting safety standards, high quality for workers",
+      "trading": {
+        "title": "Trading Services",
+        "desc": "Comprehensive trading services, sourcing support, negotiation and contract signing",
         "detail": "Details →"
       },
-      "hotel": {
-        "title": "Restaurant - Hotel Uniforms",
-        "desc": "Elegant restaurant and hotel uniform design, creating a good impression with customers",
+      "consulting": {
+        "title": "Business Consulting",
+        "desc": "Consulting on import-export procedures, legal regulations and international trade strategies",
         "detail": "Details →"
       }
     },
     "whyChoose": {
-      "title": "Why Choose Quoc Khanh Uniform?",
+      "title": "Why Choose Thanh Mich IMEX?",
       "exp": {
         "title": "Extensive Experience",
-        "desc": "Over 5 years of experience in the apparel industry, understanding market needs and trends"
+        "desc": "Over 5 years of experience in import-export and international trade, understanding global market needs"
       },
       "quality": {
         "title": "Guaranteed Quality",
-        "desc": "Using high-quality fabrics, modern sewing technology, ensuring durability and aesthetics"
+        "desc": "High-quality furniture products, meeting international standards, ensuring durability and aesthetics"
       },
       "price": {
         "title": "Competitive Pricing",
@@ -120,15 +108,15 @@
       },
       "delivery": {
         "title": "On-Time Delivery",
-        "desc": "Commitment to on-time delivery, ensuring production progress for customers"
+        "desc": "Commitment to on-time delivery, ensuring shipping progress for customers"
       },
       "support": {
         "title": "Dedicated Support",
-        "desc": "Professional consulting team, providing free design and sample consultation"
+        "desc": "Professional consulting team, providing free import-export procedure consultation"
       },
       "warranty": {
-        "title": "Warranty Policy",
-        "desc": "Product quality warranty, exchange if there are manufacturer defects"
+        "title": "After-Sales Service",
+        "desc": "Customer support after sales, quickly resolving any issues that arise"
       }
     },
     "process": {
@@ -138,30 +126,30 @@
         "desc": "Receive requests, consult and provide detailed quotes within 24 hours"
       },
       "design": {
-        "title": "Sample Design",
-        "desc": "Design samples according to requirements, revise until customer satisfaction"
+        "title": "Product Selection",
+        "desc": "Select products according to requirements, revise until customer satisfaction"
       },
       "produce": {
-        "title": "Production",
-        "desc": "Accurate measurements, quality inspection at each stage"
+        "title": "Order Processing",
+        "desc": "Process orders, quality inspection at each stage"
       },
       "deliver": {
-        "title": "Delivery",
-        "desc": "Home delivery, inspection and product acceptance"
+        "title": "Shipping & Delivery",
+        "desc": "International shipping, inspection and product acceptance"
       },
       "viewDetail": "View detailed process"
     },
     "stats": {
       "projects": "Completed Projects",
-      "clients": "Trusted Clients",
+      "clients": "Trusted Partners",
       "satisfied": "Satisfied Customers",
       "experience": "Years of Experience"
     },
     "cta": {
-      "title": "Start Your Uniform Project Today",
-      "subtitle": "Contact us for free consultation and detailed quote",
+      "title": "Start Your Business Partnership Today",
+      "subtitle": "Contact us for free consultation on import-export services",
       "contact": "Contact Now",
-      "call": "Call: 0366 333 168"
+      "call": "Call: 0857 281 982"
     }
   },
   "contact": {
@@ -193,13 +181,13 @@
       "companyPlaceholder": "Enter company/organization name",
       "service": "Service Type",
       "serviceSelect": "-- Select service type --",
-      "serviceCorporate": "Corporate Uniforms",
-      "serviceStudent": "Student Uniforms",
-      "serviceSafety": "Safety Workwear",
-      "serviceHotel": "Restaurant - Hotel Uniforms",
+      "serviceImport": "Import Export Services",
+      "serviceFurniture": "Furniture Wholesale",
+      "serviceTrading": "Trading Services",
+      "serviceConsulting": "Business Consulting",
       "serviceOther": "Other",
       "quantity": "Expected Quantity",
-      "quantityPlaceholder": "Enter quantity (sets)",
+      "quantityPlaceholder": "Enter quantity (products/containers)",
       "message": "Request Details *",
       "messagePlaceholder": "Describe your requirements in detail...",
       "submit": "Send Request"
@@ -231,88 +219,81 @@
   },
   "about": {
     "pageTitle": "About the Company",
-    "pageSubtitle": "Quoc Khanh Uniform Vietnam Company Limited - Professional high-quality uniform specialist",
+    "pageSubtitle": "Thanh Mich Import Export and Trading Production Company Limited - Professional import-export and furniture wholesale",
     "breadcrumb": "About",
     "intro": {
-      "title": "About Quoc Khanh Uniform Vietnam Company Limited",
-      "desc": "Quoc Khanh Uniform Vietnam Company Limited was established on May 10, 2019, with the goal of becoming a leading unit in the field of uniform manufacturing, design and processing in Vietnam. With over 5 years of experience in the apparel industry, we are proud to be a trusted partner of hundreds of businesses, schools and organizations nationwide."
+      "title": "About Thanh Mich Import Export and Trading Production Company Limited",
+      "desc": "Thanh Mich Import Export and Trading Production Company Limited was established on August 5, 2019, with the goal of becoming a leading unit in the field of import-export and trading in Vietnam. With over 5 years of experience in import-export, we are proud to be a trusted partner of hundreds of businesses domestically and internationally."
     },
     "mission": {
       "title": "Mission & Vision",
       "missionTitle": "Mission",
-      "missionDesc": "We are committed to bringing high-quality uniform products that meet all requirements for aesthetics, functionality and durability. Each product created reflects the dedication, professionalism and responsibility of the Quoc Khanh Uniform team.",
+      "missionDesc": "We are committed to providing professional import-export services and high-quality furniture products that meet all customer requirements. Each transaction reflects the dedication, professionalism and responsibility of the Thanh Mich IMEX team.",
       "visionTitle": "Vision",
-      "visionDesc": "To become Vietnam's leading uniform company, trusted and chosen by customers thanks to outstanding product quality, professional service and competitive prices."
+      "visionDesc": "To become Vietnam's leading import-export and trading company, trusted and chosen by customers thanks to outstanding service quality, professionalism and competitive prices."
     },
     "activity": {
       "title": "Business Areas",
-      "industry": "Garment manufacturing (excluding fur clothing)",
+      "industry": "Wholesale of other household goods",
       "mainAreas": "Main areas:",
       "areas": [
-        "Corporate uniform manufacturing: Shirts, vests, trousers, corporate jackets according to custom design",
-        "Student uniforms: Shirts, uniform pants/skirts, jackets, student shoes",
-        "Safety workwear: Safety shirts, safety pants, gloves, helmets",
-        "Restaurant - hotel uniforms: Waitstaff shirts, chef uniforms, receptionist uniforms, management uniforms",
-        "Design & Processing: Design consultation, sample manufacturing, mass production"
+        "Import-export: Import-export services for furniture and household goods",
+        "Furniture wholesale: Beds, cabinets, tables, chairs and similar furniture",
+        "Trading services: Sourcing, negotiation, contract signing",
+        "Business consulting: Consulting on import-export procedures, legal regulations",
+        "International shipping: Shipping and logistics support"
       ]
     },
     "capacity": {
-      "title": "Production Capacity",
-      "machinery": {
-        "title": "Machinery & Technology",
-        "desc": "We invest in modern industrial sewing machine systems, imported from developed countries such as Japan, Germany and South Korea:",
+      "title": "Business Capacity",
+      "network": {
+        "title": "Partner Network",
+        "desc": "We have a wide network of partners domestically and internationally:",
         "items": [
-          "Single needle sewing machines: 50 machines - Specializing in basic seams, edges, pockets",
-          "Overlock machines: 30 machines - Processing fabric edges, preventing seam fraying",
-          "Double needle machines: 25 machines - Making double seams, increasing durability",
-          "Buttonhole machines: 10 machines - Automatic buttonhole creation, high precision",
-          "Button attaching machines: 8 machines - Automatic button attachment, secure",
-          "Edge sewing machines: 15 machines - Professional edge and collar sewing",
-          "Industrial steam irons: 20 machines - Flattening fabric, improving product quality",
-          "Electronic fabric cutters: 5 machines - Precise fabric cutting, material saving"
+          "Import partners: China, Thailand, Malaysia, Indonesia",
+          "Export partners: Asian, European, American markets",
+          "Furniture suppliers: Reputable furniture manufacturers domestically and internationally",
+          "Logistics partners: Reputable international shipping companies"
         ]
       },
-      "production": {
-        "title": "Factory Capacity",
-        "desc": "With a total of 163 machines and 120 skilled workers, our production capacity:",
+      "volume": {
+        "title": "Business Volume",
+        "desc": "With experience and partner network, our business capacity:",
         "items": [
-          "Corporate uniform production: 3,000 - 5,000 sets/month",
-          "Student uniforms: 5,000 - 8,000 sets/month",
-          "Safety workwear: 4,000 - 6,000 sets/month",
-          "Restaurant - Hotel uniforms: 2,000 - 4,000 sets/month",
-          "Total capacity: 14,000 - 23,000 products/month"
+          "Furniture imports: 500-1,000 containers/year",
+          "Furniture wholesale: Hundreds of orders/month",
+          "Import-export services: Supporting hundreds of transactions/year",
+          "Trading services: Connecting hundreds of partners domestically and internationally"
         ]
       },
-      "materials": {
-        "title": "Materials & Quality",
-        "desc": "We use premium fabrics, imported and domestically produced:",
+      "services": {
+        "title": "Services & Quality",
+        "desc": "We provide professional services:",
         "items": [
-          "Cotton fabric: 100% cotton, cotton blend, stretch",
-          "Polyester fabric: Wrinkle-resistant, easy to maintain",
-          "Khaki fabric: Durable, strong, suitable for corporate uniforms",
-          "Safety fabric: Fire-resistant, waterproof, breathable",
-          "Accessories: Strong thread, durable buttons, quality zippers"
+          "Customs procedures: Support completing procedures quickly and accurately",
+          "International shipping: Sea, air, and road transport",
+          "Legal consulting: Support on import-export regulations, taxes, fees",
+          "Quality inspection: Ensuring goods meet standards before delivery"
         ]
       }
     },
     "team": {
       "title": "Human Resources",
-      "desc": "Quoc Khanh Uniform is proud to have a professional and experienced team:",
+      "desc": "Thanh Mich IMEX is proud to have a professional and experienced team:",
       "items": [
-        "120 sewing workers: Well-trained, with 3-15 years of experience",
-        "15 cutters: High technique, precise cutting, fabric saving",
-        "10 QC staff: Strict quality control at each stage",
-        "8 design staff: Creative, capturing fashion trends",
-        "5 sewing engineers: Technical management, ensuring production quality"
+        "Consulting team: Well-versed in import-export regulations, experienced",
+        "Customs procedures staff: Processing procedures quickly and accurately",
+        "Business staff: Connecting customers with reputable suppliers",
+        "Logistics staff: Managing shipping and warehouses efficiently",
+        "QC staff: Strict quality inspection of goods"
       ]
     },
     "certificates": {
-      "title": "Certifications & Awards",
+      "title": "Certifications & Permits",
       "items": [
-        "Business registration certificate: Tax ID 0108735264",
-        "ISO 9001:2015 certification for quality management system",
-        "Occupational safety certification",
-        "Award \"Typical Apparel Industry Enterprise in Hanoi\" 2022"
+        "Business registration certificate: Tax ID 0108850813",
+        "Import-export license",
+        "Reputable partner certification from international suppliers"
       ]
     },
     "contact": {
@@ -325,166 +306,137 @@
     }
   },
   "services": {
-    "pageTitle": "Uniform Manufacturing Services",
+    "pageTitle": "Import Export & Trading Services",
     "pageSubtitle": "Professional - Quality - Trustworthy",
     "breadcrumb": "Services",
-    "corporate": {
-      "title": "👔 Corporate Uniforms",
-      "desc": "Professional corporate uniform design and manufacturing, impressively representing your company brand. We specialize in producing high-quality office uniforms with beautiful designs and reasonable prices.",
-      "productsTitle": "Products",
-      "products": [
-        {
-          "title": "Corporate Shirts",
-          "desc": "Long-sleeve and short-sleeve shirts in standard form, can print/embroider company logo. Premium cotton material, breathable, easy to wash and iron."
-        },
-        {
-          "title": "Corporate Vests",
-          "desc": "Men/women vests tailored to form, premium fabric, beautiful shape. Can include matching vest pants."
-        },
-        {
-          "title": "Trousers",
-          "desc": "Beautiful form men/women trousers, khaki or industrial fabric material, colorfast, wrinkle-resistant."
-        },
-        {
-          "title": "Corporate Jackets",
-          "desc": "Winter jackets, light summer jackets. Can print logo, embroider text on jacket."
-        }
-      ],
-      "featuresTitle": "Features",
-      "features": [
-        "Custom design according to requirements, representing corporate culture",
-        "Premium fabric material, colorfast, breathable",
-        "Accurate measurements according to each employee size",
-        "High-quality print/embroider logo, company name",
-        "On-time delivery, no hidden costs"
-      ],
-      "processTitle": "Process",
-      "process": [
-        "Consultation and sample design according to requirements",
-        "Measure and record information for each employee",
-        "Produce samples for customer approval",
-        "Mass production after approval",
-        "Quality inspection and delivery"
-      ]
-    },
-    "student": {
-      "title": "🎓 Student Uniforms",
-      "desc": "Durable, beautiful, breathable student uniforms, meeting Vietnamese education standards. We produce uniforms for kindergartens, primary, middle, and high schools with beautiful designs and high quality.",
-      "productsTitle": "Products",
-      "products": [
-        {
-          "title": "Student Shirts",
-          "desc": "White shirts according to Ministry of Education standards. Spacious form, breathable, suitable for students. Can print/embroider school logo."
-        },
-        {
-          "title": "Uniform Pants/Skirts",
-          "desc": "Navy blue pants for boys, pleated skirts for girls. Khaki or industrial fabric material, durable, easy to wash."
-        },
-        {
-          "title": "Student Jackets",
-          "desc": "Winter jackets, can print school logo, class name. Light waterproof material."
-        },
-        {
-          "title": "Accessories",
-          "desc": "Ties, scarves, uniform caps. Can print logo, embroider school text."
-        }
-      ],
-      "featuresTitle": "Features",
-      "features": [
-        "Design suitable for student age groups",
-        "Safe fabric material, non-allergenic",
-        "Spacious form, comfortable for activities",
-        "Colorfast, easy to wash and iron, reasonable prices",
-        "Diverse sizes from kindergarten to high school"
-      ],
-      "qualityTitle": "Quality Standards",
-      "quality": [
-        "Meet Ministry of Education quality standards",
-        "Fabric does not fade, does not shrink",
-        "Strong seams, no thread unraveling",
-        "Quality inspection for each product before delivery"
-      ]
-    },
-    "safety": {
-      "title": "🦺 Safety Workwear",
-      "desc": "Safety workwear meeting safety standards, high quality for workers. We specialize in producing various types of protective clothing for different industries.",
-      "productsTitle": "Products",
-      "products": [
-        {
-          "title": "Safety Shirts",
-          "desc": "Fire-resistant, waterproof, reflective safety shirts. Suitable for construction, manufacturing, transportation workers."
-        },
-        {
-          "title": "Safety Pants",
-          "desc": "Durable safety pants with wide pockets, drawstring. Khaki or premium canvas fabric material."
-        },
-        {
-          "title": "Reflective Shirts",
-          "desc": "Reflective shirts for traffic, construction workers. High-quality 3M reflective strips."
-        },
-        {
-          "title": "Specialized Protective Wear",
-          "desc": "Chemical-resistant, UV-resistant, anti-static clothing. According to each industry requirements."
-        }
-      ],
-      "featuresTitle": "Features",
-      "features": [
-        "Meet Vietnamese and international occupational safety standards",
-        "Specialized material, durable, fire/water resistant",
-        "Convenient design, multiple pockets, easy movement",
-        "Clear reflective strips, ensuring safety",
-        "Diverse sizes, suitable for all body types"
-      ],
-      "safetyTitle": "Safety Standards",
-      "safety": [
-        "TCVN 6240 - Occupational protective clothing",
-        "ISO 14116 - Fire resistance",
-        "EN 471 - High visibility clothing",
-        "Quality certification from inspection agencies"
-      ]
-    },
-    "hotel": {
-      "title": "🍽️ Restaurant - Hotel Uniforms",
-      "desc": "Elegant restaurant and hotel uniform design, creating a good impression with customers. We specialize in making uniforms for receptionists, waitstaff, chefs, management with high quality.",
-      "productsTitle": "Products",
-      "products": [
-        {
-          "title": "Receptionist Uniforms",
-          "desc": "Elegant shirts/vests, beautiful pants/skirts. Refined design, showing professionalism."
-        },
-        {
-          "title": "Waitstaff Uniforms",
-          "desc": "Shirts, trousers/skirts, waitstaff aprons. Harmonious colors, easy movement, easy to wash."
-        },
-        {
-          "title": "Chef Uniforms",
-          "desc": "Premium chef shirts, chef hats, aprons. Stain-resistant, oil-resistant, easy to wash."
-        },
-        {
-          "title": "Management Uniforms",
-          "desc": "Vests, premium shirts for management. Distinctive design, more elegant than staff."
-        }
-      ],
-      "featuresTitle": "Features",
-      "features": [
-        "Elegant design, suitable for restaurant/hotel spaces",
-        "Premium fabric material, colorfast, wrinkle-resistant",
-        "Easy to wash and iron, quick dry, suitable for frequent use",
-        "Can embroider/print restaurant, hotel logo",
-        "Diverse designs, suitable for each job position"
-      ],
-      "servicesTitle": "Additional Services",
+    "import": {
+      "title": "🌍 Import Export Services",
+      "desc": "Professional import-export services, customs clearance support, international shipping. We provide comprehensive import-export solutions with extensive experience and a wide network of partners.",
+      "servicesTitle": "Services",
       "services": [
-        "Consultation on uniform design according to restaurant/hotel style",
-        "Sample making for customers to view and edit",
-        "On-site measurement for staff",
-        "Warranty and repair after delivery"
+        {
+          "title": "Customs Procedures",
+          "desc": "Support completing customs procedures, declaration, inspection and clearance of goods quickly and accurately."
+        },
+        {
+          "title": "International Shipping",
+          "desc": "International shipping services by sea, air, and road with competitive prices."
+        },
+        {
+          "title": "Import Export Documents",
+          "desc": "Support preparing various documents: Invoice, Packing List, C/O, B/L, AWB as required."
+        },
+        {
+          "title": "Legal Consulting",
+          "desc": "Consulting on import-export regulations, taxes, fees and related legal issues."
+        }
+      ],
+      "featuresTitle": "Features",
+      "features": [
+        "Experienced team, well-versed in import-export regulations",
+        "Wide network of partners, competitive prices",
+        "Quick processing, on-time delivery as committed",
+        "24/7 support, timely problem resolution",
+        "Transparent costs, no hidden fees"
+      ]
+    },
+    "furniture": {
+      "title": "🪑 Furniture Wholesale",
+      "desc": "Wholesale of beds, cabinets, tables, chairs and similar furniture with high quality and competitive prices. We provide diverse furniture products to meet all needs.",
+      "productsTitle": "Products",
+      "products": [
+        {
+          "title": "Beds",
+          "desc": "Diverse bed designs, high-quality wood and metal materials, suitable for all spaces."
+        },
+        {
+          "title": "Wardrobes",
+          "desc": "Wardrobes in various sizes, modern design, convenient, durable quality."
+        },
+        {
+          "title": "Tables & Chairs",
+          "desc": "Office tables and chairs, dining tables and chairs, living room furniture with beautiful designs."
+        },
+        {
+          "title": "Other Furniture",
+          "desc": "Shelves, glass cabinets, dressing tables and other furniture as required."
+        }
+      ],
+      "featuresTitle": "Features",
+      "features": [
+        "Diverse products, high quality, competitive prices",
+        "Stable supply sources, ensuring large quantities",
+        "Modern design, following trends",
+        "Fast delivery, on-time",
+        "Support consultation to choose suitable products"
+      ]
+    },
+    "trading": {
+      "title": "📦 Trading Services",
+      "desc": "Comprehensive trading services, sourcing support, negotiation and contract signing. We connect customers with reputable suppliers domestically and internationally.",
+      "servicesTitle": "Services",
+      "services": [
+        {
+          "title": "Sourcing",
+          "desc": "Support finding reputable suppliers that match customer requirements and budget."
+        },
+        {
+          "title": "Contract Negotiation",
+          "desc": "Support negotiating prices and contract terms to achieve the best agreement."
+        },
+        {
+          "title": "Quality Inspection",
+          "desc": "Inspect product quality before delivery, ensuring standards are met."
+        },
+        {
+          "title": "Order Management",
+          "desc": "Track and manage orders from placement to delivery."
+        }
+      ],
+      "featuresTitle": "Features",
+      "features": [
+        "Wide network of partners domestically and internationally",
+        "Negotiation experience, achieving best prices",
+        "Ensuring product quality as required",
+        "Comprehensive support from sourcing to delivery",
+        "Transparent and clear in all transactions"
+      ]
+    },
+    "consulting": {
+      "title": "🤝 Business Consulting",
+      "desc": "Consulting on import-export procedures, legal regulations and international trade strategies. We help customers understand and comply with legal regulations.",
+      "servicesTitle": "Consulting Services",
+      "services": [
+        {
+          "title": "Procedure Consulting",
+          "desc": "Consulting on import-export procedures, permits, required documents."
+        },
+        {
+          "title": "Legal Consulting",
+          "desc": "Consulting on legal regulations, taxes, fees and related legal issues."
+        },
+        {
+          "title": "Strategy Consulting",
+          "desc": "Consulting on import-export business strategies, market expansion."
+        },
+        {
+          "title": "Implementation Support",
+          "desc": "Support implementing procedures, completing documents and resolving issues."
+        }
+      ],
+      "featuresTitle": "Features",
+      "features": [
+        "Experienced consulting team, well-versed in regulations",
+        "Free initial consultation, dedicated support",
+        "Latest updates on legal regulations",
+        "Solutions tailored to each customer",
+        "Long-term support, accompanying customers"
       ]
     },
     "ctaTitle": "Need Consultation on Services?",
     "ctaDesc": "Contact us for detailed quote and free consultation",
     "ctaContact": "Contact Now",
-    "ctaCall": "Call: 0366 333 168"
+    "ctaCall": "Call: 0857 281 982"
   },
   "policies": {
     "pageTitle": "Policies",
@@ -496,14 +448,14 @@
         "title": "I. Privacy Policy for Website",
         "items": [
           "The website does not collect any personal information from users.",
-          "The website only provides information about QUOC KHANH UNIFORM VIET NAM COMPANY LIMITED.",
+          "The website only provides information about THANH MICH IMPORT EXPORT AND TRADING PRODUCTION COMPANY LIMITED.",
           "The website does not use cookies, tracking codes, or any other tracking technology."
         ]
       },
       "mobile": {
         "title": "II. Privacy Policy for Mobile Application",
         "items": [
-          "The mobile application is only intended to introduce QUOC KHANH UNIFORM VIET NAM COMPANY LIMITED and the company's apparel products/services.",
+          "The mobile application is only intended to introduce THANH MICH IMPORT EXPORT AND TRADING PRODUCTION COMPANY LIMITED and the company's import-export and trading services.",
           "The application does not collect any personal data from users.",
           "The application does not require users to create an account or log in.",
           "The application does not track user behavior, activities, or location.",
@@ -514,27 +466,26 @@
     "warranty": {
       "title": "🛡️ Warranty Policy",
       "timeTitle": "Warranty Period",
-      "timeDesc": "Quoc Khanh Uniform Vietnam Company Limited commits to warranty product quality for customers with the following periods:",
+      "timeDesc": "Thanh Mich Import Export and Trading Production Company Limited commits to warranty product quality for customers with the following periods:",
       "timeItems": {
-        "corporate": "Corporate uniforms: 6 months from delivery date",
-        "student": "Student uniforms: 6 months from delivery date",
-        "safety": "Safety workwear: 3 months from delivery date",
-        "hotel": "Restaurant - hotel uniforms: 6 months from delivery date"
+        "furniture": "Furniture: 12 months from delivery date",
+        "import": "Imported goods: According to manufacturer's warranty policy (minimum 6 months)",
+        "trading": "Trading services: Ensuring product quality according to contract"
       },
       "scopeTitle": "Warranty Scope",
       "scopeDesc": "Products are warranted free of charge in the following cases:",
       "scopeItems": [
-        "Manufacturing defects: Seam unraveling, buttons falling off, broken zippers, print/embroidery logo errors",
-        "Material defects: Fabric fading quickly, excessive shrinkage (over 5%), tearing due to poor material",
-        "Size errors: Size does not match measured information (if due to our error)",
-        "Finishing defects: Products with stains, oil stains from production process"
+        "Manufacturing defects: Product defects from manufacturer, assembly errors",
+        "Material defects: Wood cracking, warping, paint peeling due to manufacturing defects",
+        "Shipping errors: Damage due to improper packaging during shipping",
+        "Finishing defects: Products with scratches, stains from production/shipping process"
       ],
       "notCoveredTitle": "Not Covered by Warranty",
       "notCoveredDesc": "The following cases are not covered by warranty:",
       "notCoveredItems": [
-        "Products torn or damaged due to improper use",
-        "Stains caused by users during use",
-        "Damage due to improper washing/ironing (too high temperature, strong bleach)",
+        "Products damaged due to improper use, overload",
+        "Stains, damage caused by users",
+        "Damage due to repairs, modifications by third parties",
         "Damage due to accidents, natural disasters, fires",
         "Damage due to repairs by third parties",
         "Products that have exceeded warranty period",
@@ -562,26 +513,28 @@
       "notesTitle": "Notes",
       "notes": [
         "Customers need to keep invoice/delivery slip for warranty procedures",
-        "Warranty products must be intact, not torn, not missing accessories",
-        "Warranty period is calculated from delivery date according to delivery slip"
+        "Warranty products must be intact, not damaged due to improper use",
+        "Warranty period is calculated from delivery date according to delivery slip",
+        "For imported goods, warranty period follows manufacturer's policy"
       ]
     },
     "delivery": {
       "title": "🚚 Delivery Policy",
       "timeTitle": "Delivery Time",
-      "timeDesc": "Delivery time depends on quantity and product type:",
+      "timeDesc": "Delivery time depends on service type and product origin:",
       "timeItems": [
-        "Under 100 products: 7-10 working days",
-        "100-500 products: 10-15 working days",
-        "500-1,000 products: 15-20 working days",
-        "Over 1,000 products: 20-30 working days (as agreed)"
+        "In-stock items: 3-5 working days",
+        "Imported goods: 15-30 working days (depending on origin and customs procedures)",
+        "Custom orders: 20-45 working days (as agreed)",
+        "Import-export services: According to customs procedures and shipping progress"
       ],
-      "timeNote": "Note: The above time is calculated after the customer has approved the sample and paid the deposit (30-50% of contract value).",
+      "timeNote": "Note: The above time is calculated after the customer has confirmed the order and paid the deposit (30-50% of contract value).",
       "methodTitle": "Delivery Methods",
       "methodItems": [
         "Home delivery: Free delivery within Hanoi city center",
         "Provincial delivery: Customer pays shipping according to shipping unit (Viettel Post, J&T, Vietnam Post...)",
-        "Pick up at factory: Customer can come directly to factory to pick up, no fee"
+        "International shipping: Support shipping by sea, air, and road",
+        "Pick up at warehouse: Customer can come directly to warehouse to pick up, no fee"
       ],
       "processTitle": "Delivery Process",
       "processItems": [
@@ -626,25 +579,24 @@
       "conditionsTitle": "Return Conditions",
       "conditionsDesc": "Customers have the right to return products in the following cases:",
       "conditionsItems": [
-        "Wrong size: Size does not match order information (if due to our error)",
         "Wrong model: Product does not match approved sample",
-        "Wrong color: Color does not match requirements",
+        "Wrong color/size: Color, size does not match requirements",
         "Manufacturing defect: Product has defect from manufacturer (within warranty scope)",
-        "Wrong quantity: Missing or excess quantity compared to order"
+        "Wrong quantity: Missing or excess quantity compared to order",
+        "Shipping damage: Product damaged during shipping"
       ],
       "timeTitle": "Return Time",
       "timeItems": {
-        "size": "Size exchange: Within 7 days from receipt date",
-        "color": "Color/model exchange: Within 3 days from receipt date",
+        "model": "Model exchange: Within 7 days from receipt date",
+        "color": "Color/size exchange: Within 7 days from receipt date",
         "defect": "Exchange due to defect: Within warranty period (see warranty policy)"
       },
       "productConditionsTitle": "Return Product Conditions",
       "productConditionsDesc": "Return products must meet the following conditions:",
       "productConditionsItems": [
         "Intact, unused",
-        "Complete accessories, labels",
-        "Not washed, not ironed",
-        "No stains, strange odors",
+        "Complete accessories, labels, packaging",
+        "No scratches, stains, damage due to use",
         "Has invoice/delivery slip"
       ],
       "processTitle": "Return Process",
@@ -659,7 +611,7 @@
         },
         {
           "step": "Shipping",
-          "desc": "Customer sends product back to our address. We pay shipping if due to our error. Customer pays shipping if due to size/color exchange request (within first 7 days)"
+          "desc": "Customer sends product back to our address. We pay shipping if due to our error. Customer pays shipping if due to model/color exchange request (within first 7 days)"
         },
         {
           "step": "Processing",
@@ -673,15 +625,16 @@
       "notesTitle": "Notes",
       "notes": [
         "Each product can only be returned once (except for manufacturer defects)",
-        "If customer requests exchange to different model with higher price, must pay additional difference",
-        "If customer requests exchange to different model with lower price, we will refund the difference",
-        "Return due to our error will be processed completely free"
+        "If customer requests exchange to different product with higher price, must pay additional difference",
+        "If customer requests exchange to different product with lower price, we will refund the difference",
+        "Return due to our error will be processed completely free",
+        "For imported goods, returns must comply with manufacturer's regulations"
       ]
     },
     "ctaTitle": "Have Questions About Policies?",
     "ctaDesc": "Contact us for answers to your questions",
     "ctaContact": "Contact Now",
-    "ctaCall": "Call: 0366 333 168"
+    "ctaCall": "Call: 0857 281 982"
   },
   "process": {
     "pageTitle": "Production Process",
@@ -1182,18 +1135,17 @@
       "title": "Business Activities Information",
       "mainIndustry": {
         "label": "Main Industry:",
-        "value": "Garment manufacturing (except garments from fur leather)"
+        "value": "Wholesale of other household goods"
       },
       "activityAreas": {
         "label": "Activity Areas:",
         "items": [
-          "Corporate uniform production",
-          "Student uniform production",
-          "Safety workwear production",
-          "Restaurant - hotel uniform production",
-          "Uniform design",
-          "Uniform processing",
-          "Logo printing and embroidery on uniforms"
+          "Wholesale of beds, cabinets, tables, chairs and similar furniture",
+          "Import-export services",
+          "International trading services",
+          "Import-export business consulting",
+          "Shipping and logistics",
+          "Sourcing and contract negotiation"
         ]
       }
     },
@@ -1205,14 +1157,14 @@
       },
       "website": {
         "label": "Website:",
-        "value": "https://uniform-quockhanh.store"
+        "value": "https://thanhmichltd.store"
       }
     },
     "cta": {
       "title": "Need to Contact Us?",
       "desc": "We are ready to consult and support you",
       "contact": "Contact Now",
-      "call": "Call: 0366 333 168"
+      "call": "Call: 0857 281 982"
     }
   }
 }

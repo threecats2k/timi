@@ -1,46 +1,34 @@
 {
   "meta": {
     "index": {
-      "title": "Quốc Khánh Uniform - Chuyên May Đồng Phục Chất Lượng Cao Tại Hà Nội",
-      "description": "Công ty TNHH Quốc Khánh Uniform Việt Nam - Chuyên sản xuất, thiết kế, gia công đồng phục công ty, đồng phục học sinh, đồng phục bảo hộ lao động, đồng phục nhà hàng khách sạn chất lượng cao tại Hà Nội"
+      "title": "Thanh Mich IMEX - Công Ty Xuất Nhập Khẩu Và Thương Mại Chuyên Nghiệp",
+      "description": "Công ty TNHH Sản Xuất Thương Mại Và Xuất Nhập Khẩu Thành Mịch - Chuyên xuất nhập khẩu, bán buôn nội thất và đồ dùng gia đình chất lượng cao"
     },
     "about": {
-      "title": "Giới thiệu - Quốc Khánh Uniform | Năng Lực Sản Xuất Đồng Phục",
-      "description": "Giới thiệu về Công ty TNHH Quốc Khánh Uniform Việt Nam - Chuyên sản xuất và gia công đồng phục chất lượng cao với hơn 5 năm kinh nghiệm trong ngành may mặc"
+      "title": "Giới thiệu - Thanh Mich IMEX | Công Ty Xuất Nhập Khẩu",
+      "description": "Giới thiệu về Công ty TNHH Sản Xuất Thương Mại Và Xuất Nhập Khẩu Thành Mịch - Chuyên xuất nhập khẩu và bán buôn nội thất với hơn 5 năm kinh nghiệm"
     },
     "services": {
-      "title": "Dịch Vụ - Quốc Khánh Uniform | May Đồng Phục Chất Lượng Cao",
-      "description": "Dịch vụ may đồng phục của Quốc Khánh Uniform: Đồng phục công ty, học sinh, bảo hộ lao động, nhà hàng khách sạn. Chất lượng cao, giá cả cạnh tranh tại Hà Nội"
+      "title": "Dịch Vụ - Thanh Mich IMEX | Xuất Nhập Khẩu & Thương Mại",
+      "description": "Dịch vụ xuất nhập khẩu của Thanh Mich IMEX: Xuất nhập khẩu, bán buôn nội thất, dịch vụ thương mại. Chất lượng cao, giá cả cạnh tranh"
     },
     "contact": {
-      "title": "Liên Hệ - Quốc Khánh Uniform | Báo Giá & Tư Vấn Đồng Phục",
-      "description": "Liên hệ với Quốc Khánh Uniform - Chuyên sản xuất đồng phục chất lượng cao tại Hà Nội. Địa chỉ: Số 3, Tổ 4, Phường Phúc Lợi, Long Biên, Hà Nội. Điện thoại: 0366 333 168"
+      "title": "Liên Hệ - Thanh Mich IMEX | Tư Vấn Xuất Nhập Khẩu",
+      "description": "Liên hệ với Thanh Mich IMEX - Chuyên xuất nhập khẩu và bán buôn nội thất. Địa chỉ: Thôn Tế Giáp, Xã Hát Môn, TP Hà Nội. Điện thoại: 0857 281 982"
     },
     "policies": {
-      "title": "Chính Sách - Quốc Khánh Uniform | Bảo Hành - Giao Hàng - Đổi Trả",
-      "description": "Chính sách bảo hành, giao hàng và đổi trả của Quốc Khánh Uniform. Cam kết chất lượng sản phẩm và dịch vụ tốt nhất cho khách hàng"
+      "title": "Chính Sách - Thanh Mich IMEX | Bảo Hành - Giao Hàng - Đổi Trả",
+      "description": "Chính sách bảo hành, giao hàng và đổi trả của Thanh Mich IMEX. Cam kết chất lượng sản phẩm và dịch vụ tốt nhất cho khách hàng"
     },
     "privacy": {
-      "title": "Chính Sách Bảo Mật - Quốc Khánh Uniform",
-      "description": "Chính sách bảo mật của Công ty TNHH Quốc Khánh Uniform Việt Nam - Cam kết bảo vệ thông tin khách hàng"
-    },
-    "process": {
-      "title": "Quy Trình Sản Xuất - Quốc Khánh Uniform | Từ Thiết Kế Đến Giao Hàng",
-      "description": "Quy trình sản xuất đồng phục chuyên nghiệp của Quốc Khánh Uniform: Từ tư vấn, thiết kế, sản xuất đến giao hàng. Đảm bảo chất lượng và tiến độ"
-    },
-    "portfolio": {
-      "title": "Dự Án & Khách Hàng - Quốc Khánh Uniform | Portfolio Đồng Phục",
-      "description": "Dự án và khách hàng tiêu biểu của Quốc Khánh Uniform - Hơn 500 dự án đồng phục công ty, học sinh, bảo hộ đã hoàn thành thành công"
-    },
-    "news": {
-      "title": "Tin Tức & Blog - Quốc Khánh Uniform | Cập Nhật Ngành May Mặc",
-      "description": "Tin tức và blog về ngành may mặc, xu hướng đồng phục, kinh nghiệm chọn đồng phục từ Quốc Khánh Uniform"
+      "title": "Chính Sách Bảo Mật - Thanh Mich IMEX",
+      "description": "Chính sách bảo mật của Công ty TNHH Sản Xuất Thương Mại Và Xuất Nhập Khẩu Thành Mịch - Cam kết bảo vệ thông tin khách hàng"
     }
   },
   "common": {
-    "logo": "QUỐC KHÁNH UNIFORM",
+    "logo": "THANH MICH IMEX",
     "tagline": "Chất lượng - Uy tín - Chuyên nghiệp",
-    "phone": "0366 333 168",
+    "phone": "0857 281 982",
     "contactNow": "Liên hệ ngay",
     "nav": {
       "home": "Trang chủ",
@@ -53,21 +41,21 @@
       "contact": "Liên hệ"
     },
     "footer": {
-      "companyDesc": "Công ty TNHH Quốc Khánh Uniform Việt Nam - Chuyên sản xuất và gia công đồng phục chất lượng cao tại Hà Nội",
-      "address": "Số 3, Tổ 4, Phường Phúc Lợi, Quận Long Biên, Hà Nội",
-      "email": "contact@uniform-quockhanh.store",
+      "companyDesc": "Công ty TNHH Sản Xuất Thương Mại Và Xuất Nhập Khẩu Thành Mịch - Chuyên xuất nhập khẩu và bán buôn nội thất chất lượng cao",
+      "address": "Thôn Tế Giáp, Xã Hát Môn, TP Hà Nội, Việt Nam",
+      "email": "contact@thanhmichltd.store",
       "services": "Dịch vụ",
       "info": "Thông tin",
       "support": "Hỗ trợ",
-      "corporateUniform": "Đồng phục công ty",
-      "studentUniform": "Đồng phục học sinh",
-      "safetyUniform": "Đồng phục bảo hộ",
-      "hotelUniform": "Đồng phục nhà hàng - KS",
+      "importExport": "Xuất nhập khẩu",
+      "furniture": "Bán buôn nội thất",
+      "trading": "Dịch vụ thương mại",
+      "consulting": "Tư vấn kinh doanh",
       "warrantyPolicy": "Chính sách bảo hành",
       "deliveryPolicy": "Chính sách giao hàng",
       "returnPolicy": "Chính sách đổi trả",
       "companyInfo": "Thông tin doanh nghiệp",
-      "copyright": "2024 Công ty TNHH Quốc Khánh Uniform Việt Nam. MST: 0108735264"
+      "copyright": "2024 Công ty TNHH Sản Xuất Thương Mại Và Xuất Nhập Khẩu Thành Mịch. MST: 0108850813"
     },
     "breadcrumb": {
       "home": "Trang chủ"
@@ -75,44 +63,44 @@
   },
   "index": {
     "hero": {
-      "title": "Chuyên Gia Đồng Phục Chất Lượng Cao",
-      "subtitle": "Sản xuất - Thiết kế - Gia công đồng phục công ty, học sinh, bảo hộ lao động với tiêu chuẩn quốc tế",
+      "title": "Chuyên Gia Xuất Nhập Khẩu Và Thương Mại",
+      "subtitle": "Dịch vụ xuất nhập khẩu chuyên nghiệp, bán buôn nội thất và đồ dùng gia đình chất lượng cao với tiêu chuẩn quốc tế",
       "viewServices": "Xem dịch vụ",
-      "getQuote": "Nhận báo giá"
+      "getQuote": "Liên hệ ngay"
     },
     "services": {
       "title": "Dịch Vụ Chính",
-      "subtitle": "Chúng tôi cung cấp đầy đủ các giải pháp đồng phục cho mọi nhu cầu",
-      "corporate": {
-        "title": "Đồng Phục Công Ty",
-        "desc": "Thiết kế và may đồng phục công ty chuyên nghiệp, thể hiện thương hiệu doanh nghiệp một cách ấn tượng",
+      "subtitle": "Chúng tôi cung cấp đầy đủ các giải pháp xuất nhập khẩu và thương mại",
+      "import": {
+        "title": "Dịch Vụ Xuất Nhập Khẩu",
+        "desc": "Dịch vụ xuất nhập khẩu chuyên nghiệp, hỗ trợ thủ tục hải quan, vận chuyển quốc tế",
         "detail": "Chi tiết →"
       },
-      "student": {
-        "title": "Đồng Phục Học Sinh",
-        "desc": "Đồng phục học sinh bền đẹp, thoáng mát, phù hợp với tiêu chuẩn giáo dục Việt Nam",
+      "furniture": {
+        "title": "Bán Buôn Nội Thất",
+        "desc": "Bán buôn giường, tủ, bàn ghế và đồ dùng nội thất chất lượng cao, giá cả cạnh tranh",
         "detail": "Chi tiết →"
       },
-      "safety": {
-        "title": "Đồng Phục Bảo Hộ",
-        "desc": "Đồng phục bảo hộ lao động đạt tiêu chuẩn an toàn, chất lượng cao cho công nhân",
+      "trading": {
+        "title": "Dịch Vụ Thương Mại",
+        "desc": "Dịch vụ thương mại toàn diện, hỗ trợ tìm nguồn hàng, đàm phán và ký kết hợp đồng",
         "detail": "Chi tiết →"
       },
-      "hotel": {
-        "title": "Đồng Phục Nhà Hàng - Khách Sạn",
-        "desc": "Thiết kế đồng phục nhà hàng, khách sạn sang trọng, tạo ấn tượng tốt với khách hàng",
+      "consulting": {
+        "title": "Tư Vấn Kinh Doanh",
+        "desc": "Tư vấn về thủ tục xuất nhập khẩu, quy định pháp lý và chiến lược thương mại quốc tế",
         "detail": "Chi tiết →"
       }
     },
     "whyChoose": {
-      "title": "Tại Sao Chọn Quốc Khánh Uniform?",
+      "title": "Tại Sao Chọn Thanh Mich IMEX?",
       "exp": {
         "title": "Kinh Nghiệm Chuyên Sâu",
-        "desc": "Hơn 5 năm kinh nghiệm trong ngành may mặc, hiểu rõ nhu cầu và xu hướng thị trường"
+        "desc": "Hơn 5 năm kinh nghiệm trong lĩnh vực xuất nhập khẩu và thương mại, hiểu rõ thị trường quốc tế"
       },
       "quality": {
         "title": "Chất Lượng Đảm Bảo",
-        "desc": "Sử dụng vải chất lượng cao, công nghệ may hiện đại, đảm bảo độ bền và thẩm mỹ"
+        "desc": "Sản phẩm nội thất chất lượng cao, đảm bảo tiêu chuẩn quốc tế, độ bền và thẩm mỹ"
       },
       "price": {
         "title": "Giá Cả Cạnh Tranh",
@@ -120,15 +108,15 @@
       },
       "delivery": {
         "title": "Giao Hàng Đúng Hẹn",
-        "desc": "Cam kết giao hàng đúng thời gian, đảm bảo tiến độ sản xuất cho khách hàng"
+        "desc": "Cam kết giao hàng đúng thời gian, đảm bảo tiến độ vận chuyển cho khách hàng"
       },
       "support": {
         "title": "Hỗ Trợ Tận Tâm",
-        "desc": "Đội ngũ tư vấn chuyên nghiệp, hỗ trợ thiết kế và tư vấn mẫu mã miễn phí"
+        "desc": "Đội ngũ tư vấn chuyên nghiệp, hỗ trợ thủ tục xuất nhập khẩu và tư vấn miễn phí"
       },
       "warranty": {
-        "title": "Chính Sách Bảo Hành",
-        "desc": "Bảo hành chất lượng sản phẩm, đổi trả nếu có lỗi từ nhà sản xuất"
+        "title": "Dịch Vụ Hậu Mãi",
+        "desc": "Hỗ trợ khách hàng sau bán hàng, giải quyết các vấn đề phát sinh một cách nhanh chóng"
       }
     },
     "process": {
@@ -142,8 +130,8 @@
         "desc": "Thiết kế mẫu theo yêu cầu, chỉnh sửa đến khi khách hàng hài lòng"
       },
       "produce": {
-        "title": "Sản Xuất",
-        "desc": "May đo chính xác, kiểm tra chất lượng từng công đoạn"
+        "title": "Thực Hiện",
+        "desc": "Xử lý thủ tục hải quan, vận chuyển và kiểm tra chất lượng hàng hóa"
       },
       "deliver": {
         "title": "Giao Hàng",
@@ -153,20 +141,20 @@
     },
     "stats": {
       "projects": "Dự án hoàn thành",
-      "clients": "Khách hàng tin tưởng",
+      "clients": "Đối tác tin tưởng",
       "satisfied": "Khách hàng hài lòng",
       "experience": "Năm kinh nghiệm"
     },
     "cta": {
-      "title": "Bắt Đầu Dự Án Đồng Phục Của Bạn Ngay Hôm Nay",
-      "subtitle": "Liên hệ với chúng tôi để nhận tư vấn miễn phí và báo giá chi tiết",
+      "title": "Bắt Đầu Hợp Tác Kinh Doanh Với Chúng Tôi Ngay Hôm Nay",
+      "subtitle": "Liên hệ với chúng tôi để nhận tư vấn miễn phí về dịch vụ xuất nhập khẩu",
       "contact": "Liên hệ ngay",
-      "call": "Gọi: 0366 333 168"
+      "call": "Gọi: 0857 281 982"
     }
   },
   "contact": {
     "pageTitle": "Liên Hệ Với Chúng Tôi",
-    "pageSubtitle": "Chúng tôi sẵn sàng tư vấn và hỗ trợ bạn",
+    "pageSubtitle": "Chúng tôi sẵn sàng tư vấn và hỗ trợ bạn về dịch vụ xuất nhập khẩu",
     "breadcrumb": "Liên hệ",
     "contactInfo": {
       "title": "Thông Tin Liên Hệ",
@@ -193,13 +181,13 @@
       "companyPlaceholder": "Nhập tên công ty/tổ chức",
       "service": "Loại dịch vụ cần tư vấn",
       "serviceSelect": "-- Chọn loại dịch vụ --",
-      "serviceCorporate": "Đồng phục công ty",
-      "serviceStudent": "Đồng phục học sinh",
-      "serviceSafety": "Đồng phục bảo hộ",
-      "serviceHotel": "Đồng phục nhà hàng - khách sạn",
+      "serviceImport": "Dịch vụ xuất nhập khẩu",
+      "serviceFurniture": "Bán buôn nội thất",
+      "serviceTrading": "Dịch vụ thương mại",
+      "serviceConsulting": "Tư vấn kinh doanh",
       "serviceOther": "Khác",
       "quantity": "Số lượng dự kiến",
-      "quantityPlaceholder": "Nhập số lượng (bộ)",
+      "quantityPlaceholder": "Nhập số lượng (sản phẩm/container)",
       "message": "Nội dung yêu cầu *",
       "messagePlaceholder": "Mô tả chi tiết yêu cầu của bạn...",
       "submit": "Gửi yêu cầu"
@@ -207,19 +195,19 @@
     "features": {
       "consult": {
         "title": "📞 Tư Vấn Miễn Phí",
-        "desc": "Chúng tôi tư vấn miễn phí về thiết kế, chất liệu và giá thành. Liên hệ qua điện thoại hoặc email."
+        "desc": "Chúng tôi tư vấn miễn phí về dịch vụ xuất nhập khẩu, thủ tục hải quan và giá thành. Liên hệ qua điện thoại hoặc email."
       },
       "quote": {
         "title": "💰 Báo Giá Nhanh",
         "desc": "Nhận báo giá chi tiết trong vòng 24 giờ sau khi gửi yêu cầu. Giá cả minh bạch, không phát sinh chi phí ẩn."
       },
       "delivery": {
-        "title": "🚚 Giao Hàng Tận Nơi",
-        "desc": "Miễn phí giao hàng trong nội thành Hà Nội. Giao hàng đúng tiến độ, đảm bảo chất lượng."
+        "title": "🚚 Vận Chuyển Quốc Tế",
+        "desc": "Dịch vụ vận chuyển quốc tế chuyên nghiệp. Giao hàng đúng tiến độ, đảm bảo chất lượng."
       },
       "warranty": {
-        "title": "🛡️ Bảo Hành Chất Lượng",
-        "desc": "Bảo hành chất lượng sản phẩm 3-6 tháng. Đổi trả miễn phí nếu có lỗi từ nhà sản xuất."
+        "title": "🛡️ Dịch Vụ Hậu Mãi",
+        "desc": "Hỗ trợ khách hàng sau bán hàng, giải quyết các vấn đề phát sinh một cách nhanh chóng và hiệu quả."
       }
     },
     "modal": {
@@ -231,88 +219,81 @@
   },
   "about": {
     "pageTitle": "Giới Thiệu Công Ty",
-    "pageSubtitle": "Công ty TNHH Quốc Khánh Uniform Việt Nam - Chuyên gia đồng phục chất lượng cao",
+    "pageSubtitle": "Công ty TNHH Sản Xuất Thương Mại Và Xuất Nhập Khẩu Thành Mịch - Chuyên gia xuất nhập khẩu và thương mại",
     "breadcrumb": "Giới thiệu",
     "intro": {
-      "title": "Về Công Ty TNHH Quốc Khánh Uniform Việt Nam",
-      "desc": "Công ty TNHH Quốc Khánh Uniform Việt Nam được thành lập vào ngày 10 tháng 5 năm 2019, với mục tiêu trở thành đơn vị hàng đầu trong lĩnh vực sản xuất, thiết kế và gia công đồng phục tại Việt Nam. Với hơn 5 năm kinh nghiệm trong ngành may mặc, chúng tôi tự hào là đối tác tin cậy của hàng trăm doanh nghiệp, trường học và tổ chức trên toàn quốc."
+      "title": "Về Công Ty TNHH Sản Xuất Thương Mại Và Xuất Nhập Khẩu Thành Mịch",
+      "desc": "Công ty TNHH Sản Xuất Thương Mại Và Xuất Nhập Khẩu Thành Mịch được thành lập vào ngày 5 tháng 8 năm 2019, với mục tiêu trở thành đơn vị hàng đầu trong lĩnh vực xuất nhập khẩu và bán buôn nội thất tại Việt Nam. Với hơn 5 năm kinh nghiệm trong ngành thương mại quốc tế, chúng tôi tự hào là đối tác tin cậy của nhiều doanh nghiệp và khách hàng trong và ngoài nước."
     },
     "mission": {
       "title": "Sứ Mệnh & Tầm Nhìn",
       "missionTitle": "Sứ Mệnh",
-      "missionDesc": "Chúng tôi cam kết mang đến những sản phẩm đồng phục chất lượng cao, đáp ứng mọi yêu cầu về thẩm mỹ, tính năng và độ bền. Mỗi sản phẩm được tạo ra đều thể hiện sự tâm huyết, chuyên nghiệp và trách nhiệm của đội ngũ Quốc Khánh Uniform.",
+      "missionDesc": "Chúng tôi cam kết mang đến dịch vụ xuất nhập khẩu chuyên nghiệp và sản phẩm nội thất chất lượng cao, đáp ứng mọi yêu cầu của khách hàng. Mỗi giao dịch đều thể hiện sự tâm huyết, chuyên nghiệp và trách nhiệm của đội ngũ Thanh Mich IMEX.",
       "visionTitle": "Tầm Nhìn",
-      "visionDesc": "Trở thành công ty đồng phục hàng đầu tại Việt Nam, được khách hàng tin tưởng lựa chọn nhờ chất lượng sản phẩm vượt trội, dịch vụ chuyên nghiệp và giá cả cạnh tranh."
+      "visionDesc": "Trở thành công ty xuất nhập khẩu và thương mại hàng đầu tại Việt Nam, được khách hàng tin tưởng lựa chọn nhờ chất lượng dịch vụ vượt trội, chuyên nghiệp và giá cả cạnh tranh."
     },
     "activity": {
       "title": "Lĩnh Vực Hoạt Động",
-      "industry": "May trang phục (trừ trang phục từ da lông thú)",
+      "industry": "Bán buôn đồ dùng khác cho gia đình",
       "mainAreas": "Các lĩnh vực chính:",
       "areas": [
-        "Sản xuất đồng phục công ty: Áo sơ mi, vest, quần tây, áo khoác công ty theo thiết kế riêng",
-        "Đồng phục học sinh: Áo sơ mi, quần/váy đồng phục, áo khoác, giày dép học sinh",
-        "Đồng phục bảo hộ lao động: Áo bảo hộ, quần bảo hộ, găng tay, mũ bảo hiểm",
-        "Đồng phục nhà hàng - khách sạn: Áo phục vụ, đầu bếp, lễ tân, quản lý",
-        "Thiết kế & Gia công: Tư vấn thiết kế, may mẫu, sản xuất hàng loạt"
+        "Xuất nhập khẩu: Dịch vụ xuất nhập khẩu các mặt hàng nội thất và đồ dùng gia đình",
+        "Bán buôn nội thất: Giường, tủ, bàn ghế và đồ dùng nội thất tương tự",
+        "Dịch vụ thương mại: Tìm nguồn hàng, đàm phán, ký kết hợp đồng",
+        "Tư vấn kinh doanh: Tư vấn về thủ tục xuất nhập khẩu, quy định pháp lý",
+        "Vận chuyển quốc tế: Hỗ trợ vận chuyển và logistics"
       ]
     },
     "capacity": {
-      "title": "Năng Lực Sản Xuất",
-      "machinery": {
-        "title": "Máy Móc & Công Nghệ",
-        "desc": "Chúng tôi đầu tư hệ thống máy may công nghiệp hiện đại, nhập khẩu từ các nước phát triển như Nhật Bản, Đức và Hàn Quốc:",
+      "title": "Năng Lực Kinh Doanh",
+      "network": {
+        "title": "Mạng Lưới Đối Tác",
+        "desc": "Chúng tôi có mạng lưới đối tác rộng khắp trong và ngoài nước:",
         "items": [
-          "Máy may một kim: 50 máy - Chuyên may các đường may cơ bản, viền, túi",
-          "Máy may vắt sổ: 30 máy - Xử lý viền vải, chống sổ đường may",
-          "Máy may 2 kim: 25 máy - May các đường may kép, tăng độ bền",
-          "Máy thùa khuy: 10 máy - Tự động tạo khuy áo, chính xác cao",
-          "Máy đính cúc: 8 máy - Đính cúc áo tự động, chắc chắn",
-          "Máy may viền: 15 máy - May viền áo, cổ áo chuyên nghiệp",
-          "Máy là hơi công nghiệp: 20 máy - Là phẳng vải, tăng chất lượng sản phẩm",
-          "Máy cắt vải điện tử: 5 máy - Cắt vải chính xác, tiết kiệm nguyên liệu"
+          "Đối tác nhập khẩu: Trung Quốc, Thái Lan, Malaysia, Indonesia",
+          "Đối tác xuất khẩu: Các thị trường châu Á, châu Âu, châu Mỹ",
+          "Nhà cung cấp nội thất: Các nhà máy sản xuất nội thất uy tín trong nước và quốc tế",
+          "Đối tác logistics: Các công ty vận chuyển quốc tế uy tín"
         ]
       },
-      "production": {
-        "title": "Năng Suất Xưởng",
-        "desc": "Với tổng số 163 máy móc và 120 công nhân lành nghề, năng lực sản xuất của chúng tôi:",
+      "volume": {
+        "title": "Khối Lượng Kinh Doanh",
+        "desc": "Với kinh nghiệm và mạng lưới đối tác, năng lực kinh doanh của chúng tôi:",
         "items": [
-          "Sản xuất đồng phục công ty: 3.000 - 5.000 bộ/tháng",
-          "Đồng phục học sinh: 5.000 - 8.000 bộ/tháng",
-          "Đồng phục bảo hộ: 4.000 - 6.000 bộ/tháng",
-          "Đồng phục nhà hàng - KS: 2.000 - 4.000 bộ/tháng",
-          "Tổng năng suất: 14.000 - 23.000 sản phẩm/tháng"
+          "Nhập khẩu nội thất: 500-1.000 container/năm",
+          "Bán buôn nội thất: Hàng trăm đơn hàng/tháng",
+          "Dịch vụ xuất nhập khẩu: Hỗ trợ hàng trăm giao dịch/năm",
+          "Dịch vụ thương mại: Kết nối hàng trăm đối tác trong và ngoài nước"
         ]
       },
-      "materials": {
-        "title": "Nguyên Liệu & Chất Lượng",
-        "desc": "Chúng tôi sử dụng các loại vải cao cấp, được nhập khẩu và sản xuất trong nước:",
+      "services": {
+        "title": "Dịch Vụ & Chất Lượng",
+        "desc": "Chúng tôi cung cấp các dịch vụ chuyên nghiệp:",
         "items": [
-          "Vải cotton: 100% cotton, cotton pha, co giãn",
-          "Vải polyester: Chống nhăn, dễ bảo quản",
-          "Vải kaki: Bền, chắc, phù hợp đồng phục công ty",
-          "Vải bảo hộ: Chống cháy, chống nước, thoáng khí",
-          "Phụ liệu: Chỉ may chắc chắn, cúc bền, khóa kéo chất lượng"
+          "Thủ tục hải quan: Hỗ trợ hoàn thiện thủ tục nhanh chóng, chính xác",
+          "Vận chuyển quốc tế: Đường biển, đường hàng không, đường bộ",
+          "Tư vấn pháp lý: Hỗ trợ về quy định xuất nhập khẩu, thuế, phí",
+          "Kiểm tra chất lượng: Đảm bảo hàng hóa đúng tiêu chuẩn trước khi giao"
         ]
       }
     },
     "team": {
       "title": "Đội Ngũ Nhân Sự",
-      "desc": "Quốc Khánh Uniform tự hào sở hữu đội ngũ nhân viên chuyên nghiệp và giàu kinh nghiệm:",
+      "desc": "Thanh Mich IMEX tự hào sở hữu đội ngũ nhân viên chuyên nghiệp và giàu kinh nghiệm:",
       "items": [
-        "120 công nhân may: Được đào tạo bài bản, có kinh nghiệm từ 3-15 năm",
-        "15 thợ cắt: Kỹ thuật cao, cắt chính xác, tiết kiệm vải",
-        "10 nhân viên QC: Kiểm soát chất lượng nghiêm ngặt từng công đoạn",
-        "8 nhân viên thiết kế: Sáng tạo, nắm bắt xu hướng thời trang",
-        "5 kỹ sư may: Quản lý kỹ thuật, đảm bảo chất lượng sản xuất"
+        "Đội ngũ tư vấn: Am hiểu quy định xuất nhập khẩu, giàu kinh nghiệm",
+        "Nhân viên thủ tục hải quan: Xử lý thủ tục nhanh chóng, chính xác",
+        "Nhân viên kinh doanh: Kết nối khách hàng với nhà cung cấp uy tín",
+        "Nhân viên logistics: Quản lý vận chuyển và kho bãi hiệu quả",
+        "Nhân viên QC: Kiểm tra chất lượng hàng hóa nghiêm ngặt"
       ]
     },
     "certificates": {
-      "title": "Chứng Nhận & Giải Thưởng",
+      "title": "Chứng Nhận & Giấy Phép",
       "items": [
-        "Giấy chứng nhận đăng ký kinh doanh: MST 0108735264",
-        "Chứng nhận ISO 9001:2015 về hệ thống quản lý chất lượng",
-        "Chứng nhận an toàn lao động",
-        "Giải thưởng \"Doanh nghiệp tiêu biểu ngành may mặc Hà Nội\" 2022"
+        "Giấy chứng nhận đăng ký kinh doanh: MST 0108850813",
+        "Giấy phép xuất nhập khẩu",
+        "Chứng nhận đối tác uy tín từ các nhà cung cấp quốc tế"
       ]
     },
     "contact": {
@@ -325,166 +306,137 @@
     }
   },
   "services": {
-    "pageTitle": "Dịch Vụ Sản Xuất Đồng Phục",
+    "pageTitle": "Dịch Vụ Xuất Nhập Khẩu & Thương Mại",
     "pageSubtitle": "Chuyên nghiệp - Chất lượng - Uy tín",
     "breadcrumb": "Dịch vụ",
-    "corporate": {
-      "title": "👔 Đồng Phục Công Ty",
-      "desc": "Thiết kế và may đồng phục công ty chuyên nghiệp, thể hiện thương hiệu doanh nghiệp một cách ấn tượng. Chúng tôi chuyên sản xuất các loại đồng phục văn phòng với chất lượng cao, mẫu mã đẹp và giá cả hợp lý.",
-      "productsTitle": "Sản Phẩm",
-      "products": [
-        {
-          "title": "Áo Sơ Mi Công Ty",
-          "desc": "Áo sơ mi dài tay, ngắn tay theo form chuẩn, có thể in/thêu logo công ty. Chất liệu cotton cao cấp, thoáng mát, dễ giặt ủi."
-        },
-        {
-          "title": "Vest Công Ty",
-          "desc": "Vest nam/nữ may đo theo form, vải cao cấp, phom dáng đẹp. Có thể kèm quần vest đồng bộ."
-        },
-        {
-          "title": "Quần Tây",
-          "desc": "Quần tây nam/nữ form đẹp, chất liệu kaki hoặc vải công nghiệp, bền màu, không nhăn."
-        },
-        {
-          "title": "Áo Khoác Công Ty",
-          "desc": "Áo khoác mùa đông, áo khoác nhẹ mùa hè. Có thể in logo, thêu chữ trên áo."
-        }
-      ],
-      "featuresTitle": "Đặc Điểm",
-      "features": [
-        "Thiết kế theo yêu cầu, thể hiện văn hóa doanh nghiệp",
-        "Chất liệu vải cao cấp, bền màu, thoáng mát",
-        "May đo chính xác theo size từng nhân viên",
-        "In/thêu logo, tên công ty chất lượng cao",
-        "Giao hàng đúng tiến độ, không phát sinh chi phí"
-      ],
-      "processTitle": "Quy Trình",
-      "process": [
-        "Tư vấn và thiết kế mẫu theo yêu cầu",
-        "Đo size và ghi nhận thông tin từng nhân viên",
-        "Sản xuất mẫu để khách hàng duyệt",
-        "Sản xuất hàng loạt sau khi được phê duyệt",
-        "Kiểm tra chất lượng và giao hàng"
-      ]
-    },
-    "student": {
-      "title": "🎓 Đồng Phục Học Sinh",
-      "desc": "Đồng phục học sinh bền đẹp, thoáng mát, phù hợp với tiêu chuẩn giáo dục Việt Nam. Chúng tôi sản xuất đồng phục cho các trường mầm non, tiểu học, THCS, THPT với mẫu mã đẹp, chất lượng cao.",
-      "productsTitle": "Sản Phẩm",
-      "products": [
-        {
-          "title": "Áo Sơ Mi Học Sinh",
-          "desc": "Áo sơ mi trắng theo chuẩn Bộ Giáo dục. Form rộng rãi, thoáng mát, phù hợp học sinh. Có thể in/thêu logo trường."
-        },
-        {
-          "title": "Quần/Váy Đồng Phục",
-          "desc": "Quần xanh navy cho nam, váy xếp ly cho nữ. Chất liệu kaki hoặc vải công nghiệp, bền, dễ giặt."
-        },
-        {
-          "title": "Áo Khoác Học Sinh",
-          "desc": "Áo khoác mùa đông, có thể in logo trường, tên lớp. Chất liệu chống nước nhẹ."
-        },
-        {
-          "title": "Phụ Kiện",
-          "desc": "Cà vạt, khăn quàng, mũ lưỡi trai đồng phục. Có thể in logo, thêu chữ trường."
-        }
-      ],
-      "featuresTitle": "Đặc Điểm",
-      "features": [
-        "Thiết kế phù hợp lứa tuổi học sinh",
-        "Chất liệu vải an toàn, không gây dị ứng",
-        "Form rộng rãi, thoải mái cho hoạt động",
-        "Bền màu, dễ giặt ủi, giá cả hợp lý",
-        "Đa dạng size từ mầm non đến THPT"
-      ],
-      "qualityTitle": "Tiêu Chuẩn Chất Lượng",
-      "quality": [
-        "Đáp ứng tiêu chuẩn chất lượng Bộ Giáo dục",
-        "Vải không phai màu, không co rút",
-        "Đường may chắc chắn, không sổ chỉ",
-        "Kiểm tra chất lượng từng sản phẩm trước khi giao"
-      ]
-    },
-    "safety": {
-      "title": "🦺 Đồng Phục Bảo Hộ Lao Động",
-      "desc": "Đồng phục bảo hộ lao động đạt tiêu chuẩn an toàn, chất lượng cao cho công nhân. Chúng tôi chuyên sản xuất các loại trang phục bảo hộ cho nhiều ngành nghề khác nhau.",
-      "productsTitle": "Sản Phẩm",
-      "products": [
-        {
-          "title": "Áo Bảo Hộ",
-          "desc": "Áo bảo hộ chống cháy, chống nước, phản quang. Phù hợp công nhân xây dựng, sản xuất, vận tải."
-        },
-        {
-          "title": "Quần Bảo Hộ",
-          "desc": "Quần bảo hộ bền chắc, có túi rộng, dây rút. Chất liệu kaki hoặc vải canvas cao cấp."
-        },
-        {
-          "title": "Áo Phản Quang",
-          "desc": "Áo phản quang cho công nhân giao thông, xây dựng. Dải phản quang 3M chất lượng cao."
-        },
-        {
-          "title": "Đồ Bảo Hộ Chuyên Dụng",
-          "desc": "Áo quần chống hóa chất, chống tia UV, chống tĩnh điện. Theo yêu cầu từng ngành nghề."
-        }
-      ],
-      "featuresTitle": "Đặc Điểm",
-      "features": [
-        "Đạt tiêu chuẩn an toàn lao động Việt Nam và quốc tế",
-        "Chất liệu chuyên dụng, bền, chống cháy/chống nước",
-        "Thiết kế tiện lợi, nhiều túi, dễ vận động",
-        "Dải phản quang rõ ràng, đảm bảo an toàn",
-        "Size đa dạng, phù hợp mọi vóc dáng"
-      ],
-      "safetyTitle": "Tiêu Chuẩn An Toàn",
-      "safety": [
-        "TCVN 6240 - Quần áo bảo hộ lao động",
-        "ISO 14116 - Chống cháy",
-        "EN 471 - Áo phản quang cao",
-        "Chứng nhận chất lượng từ các cơ quan kiểm định"
-      ]
-    },
-    "hotel": {
-      "title": "🍽️ Đồng Phục Nhà Hàng - Khách Sạn",
-      "desc": "Thiết kế đồng phục nhà hàng, khách sạn sang trọng, tạo ấn tượng tốt với khách hàng. Chúng tôi chuyên may đồng phục cho lễ tân, phục vụ, đầu bếp, quản lý với chất lượng cao.",
-      "productsTitle": "Sản Phẩm",
-      "products": [
-        {
-          "title": "Đồng Phục Lễ Tân",
-          "desc": "Áo sơ mi/vest sang trọng, quần/váy đẹp. Thiết kế tinh tế, thể hiện sự chuyên nghiệp."
-        },
-        {
-          "title": "Đồng Phục Phục Vụ",
-          "desc": "Áo sơ mi, quần tây/váy, tạp dề phục vụ. Màu sắc hài hòa, dễ vận động, dễ giặt."
-        },
-        {
-          "title": "Đồng Phục Đầu Bếp",
-          "desc": "Áo đầu bếp cao cấp, mũ đầu bếp, tạp dề. Chống bẩn, chống dính dầu mỡ, dễ giặt."
-        },
-        {
-          "title": "Đồng Phục Quản Lý",
-          "desc": "Vest, áo sơ mi cao cấp cho quản lý. Thiết kế riêng biệt, sang trọng hơn nhân viên."
-        }
-      ],
-      "featuresTitle": "Đặc Điểm",
-      "features": [
-        "Thiết kế sang trọng, phù hợp không gian nhà hàng/khách sạn",
-        "Chất liệu vải cao cấp, bền màu, không nhăn",
-        "Dễ giặt ủi, nhanh khô, phù hợp sử dụng thường xuyên",
-        "Có thể thêu/in logo nhà hàng, khách sạn",
-        "Mẫu mã đa dạng, phù hợp từng vị trí công việc"
-      ],
-      "servicesTitle": "Dịch Vụ Kèm Theo",
+    "import": {
+      "title": "🌍 Dịch Vụ Xuất Nhập Khẩu",
+      "desc": "Dịch vụ xuất nhập khẩu chuyên nghiệp, hỗ trợ thủ tục hải quan, vận chuyển quốc tế. Chúng tôi cung cấp giải pháp xuất nhập khẩu toàn diện với kinh nghiệm và mạng lưới đối tác rộng khắp.",
+      "servicesTitle": "Dịch Vụ",
       "services": [
-        "Tư vấn thiết kế đồng phục theo phong cách nhà hàng/KS",
-        "May mẫu để khách hàng xem và chỉnh sửa",
-        "Đo size tại chỗ cho nhân viên",
-        "Bảo hành và sửa chữa sau khi giao hàng"
+        {
+          "title": "Thủ Tục Hải Quan",
+          "desc": "Hỗ trợ hoàn thiện thủ tục hải quan, khai báo, kiểm tra và thông quan hàng hóa nhanh chóng, chính xác."
+        },
+        {
+          "title": "Vận Chuyển Quốc Tế",
+          "desc": "Dịch vụ vận chuyển quốc tế bằng đường biển, đường hàng không, đường bộ với giá cả cạnh tranh."
+        },
+        {
+          "title": "Chứng Từ Xuất Nhập Khẩu",
+          "desc": "Hỗ trợ làm các loại chứng từ: Invoice, Packing List, C/O, B/L, AWB theo yêu cầu."
+        },
+        {
+          "title": "Tư Vấn Pháp Lý",
+          "desc": "Tư vấn về quy định xuất nhập khẩu, thuế, phí và các vấn đề pháp lý liên quan."
+        }
+      ],
+      "featuresTitle": "Đặc Điểm",
+      "features": [
+        "Đội ngũ nhân viên giàu kinh nghiệm, am hiểu quy định xuất nhập khẩu",
+        "Mạng lưới đối tác rộng khắp, giá cả cạnh tranh",
+        "Xử lý nhanh chóng, đúng tiến độ cam kết",
+        "Hỗ trợ 24/7, giải quyết vấn đề kịp thời",
+        "Minh bạch về chi phí, không phát sinh phí ẩn"
+      ]
+    },
+    "furniture": {
+      "title": "🪑 Bán Buôn Nội Thất",
+      "desc": "Bán buôn giường, tủ, bàn ghế và đồ dùng nội thất chất lượng cao, giá cả cạnh tranh. Chúng tôi cung cấp đa dạng sản phẩm nội thất phù hợp với mọi nhu cầu.",
+      "productsTitle": "Sản Phẩm",
+      "products": [
+        {
+          "title": "Giường Ngủ",
+          "desc": "Giường ngủ đa dạng kiểu dáng, chất liệu gỗ, kim loại chất lượng cao, phù hợp mọi không gian."
+        },
+        {
+          "title": "Tủ Quần Áo",
+          "desc": "Tủ quần áo đa dạng kích thước, thiết kế hiện đại, tiện lợi, chất lượng bền đẹp."
+        },
+        {
+          "title": "Bàn Ghế",
+          "desc": "Bàn ghế văn phòng, bàn ghế ăn, bàn ghế phòng khách với nhiều mẫu mã đẹp."
+        },
+        {
+          "title": "Đồ Dùng Nội Thất Khác",
+          "desc": "Kệ, tủ kính, bàn trang điểm và các đồ dùng nội thất khác theo yêu cầu."
+        }
+      ],
+      "featuresTitle": "Đặc Điểm",
+      "features": [
+        "Sản phẩm đa dạng, chất lượng cao, giá cả cạnh tranh",
+        "Nguồn hàng ổn định, đảm bảo số lượng lớn",
+        "Thiết kế hiện đại, phù hợp xu hướng",
+        "Giao hàng nhanh chóng, đúng tiến độ",
+        "Hỗ trợ tư vấn chọn sản phẩm phù hợp"
+      ]
+    },
+    "trading": {
+      "title": "📦 Dịch Vụ Thương Mại",
+      "desc": "Dịch vụ thương mại toàn diện, hỗ trợ tìm nguồn hàng, đàm phán và ký kết hợp đồng. Chúng tôi kết nối khách hàng với các nhà cung cấp uy tín trong và ngoài nước.",
+      "servicesTitle": "Dịch Vụ",
+      "services": [
+        {
+          "title": "Tìm Nguồn Hàng",
+          "desc": "Hỗ trợ tìm kiếm nhà cung cấp uy tín, phù hợp với yêu cầu và ngân sách của khách hàng."
+        },
+        {
+          "title": "Đàm Phán Hợp Đồng",
+          "desc": "Hỗ trợ đàm phán giá cả, điều khoản hợp đồng để đạt được thỏa thuận tốt nhất."
+        },
+        {
+          "title": "Kiểm Tra Chất Lượng",
+          "desc": "Kiểm tra chất lượng hàng hóa trước khi giao, đảm bảo đúng tiêu chuẩn."
+        },
+        {
+          "title": "Quản Lý Đơn Hàng",
+          "desc": "Theo dõi và quản lý đơn hàng từ khi đặt hàng đến khi giao hàng."
+        }
+      ],
+      "featuresTitle": "Đặc Điểm",
+      "features": [
+        "Mạng lưới đối tác rộng khắp trong và ngoài nước",
+        "Kinh nghiệm đàm phán, đạt được giá tốt nhất",
+        "Đảm bảo chất lượng hàng hóa theo yêu cầu",
+        "Hỗ trợ toàn diện từ tìm nguồn đến giao hàng",
+        "Minh bạch, rõ ràng trong mọi giao dịch"
+      ]
+    },
+    "consulting": {
+      "title": "🤝 Tư Vấn Kinh Doanh",
+      "desc": "Tư vấn về thủ tục xuất nhập khẩu, quy định pháp lý và chiến lược thương mại quốc tế. Chúng tôi hỗ trợ khách hàng hiểu rõ và tuân thủ các quy định pháp luật.",
+      "servicesTitle": "Dịch Vụ Tư Vấn",
+      "services": [
+        {
+          "title": "Tư Vấn Thủ Tục",
+          "desc": "Tư vấn về các thủ tục xuất nhập khẩu, giấy phép, chứng từ cần thiết."
+        },
+        {
+          "title": "Tư Vấn Pháp Lý",
+          "desc": "Tư vấn về quy định pháp luật, thuế, phí và các vấn đề pháp lý liên quan."
+        },
+        {
+          "title": "Tư Vấn Chiến Lược",
+          "desc": "Tư vấn chiến lược kinh doanh xuất nhập khẩu, mở rộng thị trường."
+        },
+        {
+          "title": "Hỗ Trợ Thực Hiện",
+          "desc": "Hỗ trợ thực hiện các thủ tục, hoàn thiện hồ sơ và giải quyết vấn đề phát sinh."
+        }
+      ],
+      "featuresTitle": "Đặc Điểm",
+      "features": [
+        "Đội ngũ tư vấn giàu kinh nghiệm, am hiểu quy định",
+        "Tư vấn miễn phí ban đầu, hỗ trợ tận tâm",
+        "Cập nhật thông tin mới nhất về quy định pháp luật",
+        "Giải pháp phù hợp với từng khách hàng",
+        "Hỗ trợ lâu dài, đồng hành cùng khách hàng"
       ]
     },
     "ctaTitle": "Bạn Cần Tư Vấn Về Dịch Vụ?",
     "ctaDesc": "Liên hệ với chúng tôi để nhận báo giá chi tiết và tư vấn miễn phí",
     "ctaContact": "Liên hệ ngay",
-    "ctaCall": "Gọi: 0366 333 168"
+    "ctaCall": "Gọi: 0857 281 982"
   },
   "policies": {
     "pageTitle": "Chính Sách",
@@ -496,14 +448,14 @@
         "title": "I. Chính sách bảo mật dành cho Website",
         "items": [
           "Website không thu thập bất kỳ thông tin cá nhân nào của người dùng.",
-          "Website chỉ cung cấp thông tin về doanh nghiệp CÔNG TY TNHH QUỐC KHÁNH UNIFORM VIỆT NAM.",
+          "Website chỉ cung cấp thông tin về doanh nghiệp CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI VÀ XUẤT NHẬP KHẨU THÀNH MỊCH.",
           "Website không sử dụng cookie, tracking code hoặc bất kỳ công nghệ theo dõi nào khác."
         ]
       },
       "mobile": {
         "title": "II. Chính sách bảo mật dành cho Ứng dụng di động",
         "items": [
-          "Ứng dụng di động chỉ nhằm giới thiệu về CÔNG TY TNHH QUỐC KHÁNH UNIFORM VIỆT NAM và các sản phẩm/dịch vụ may mặc của công ty.",
+          "Ứng dụng di động chỉ nhằm giới thiệu về CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI VÀ XUẤT NHẬP KHẨU THÀNH MỊCH và các dịch vụ xuất nhập khẩu, thương mại của công ty.",
           "Ứng dụng không thu thập bất kỳ dữ liệu cá nhân nào từ người dùng.",
           "Ứng dụng không yêu cầu người dùng tạo tài khoản hoặc đăng nhập.",
           "Ứng dụng không theo dõi hành vi, hoạt động hoặc vị trí của người dùng.",
@@ -514,31 +466,29 @@
     "warranty": {
       "title": "🛡️ Chính Sách Bảo Hành",
       "timeTitle": "Thời Gian Bảo Hành",
-      "timeDesc": "Công ty TNHH Quốc Khánh Uniform Việt Nam cam kết bảo hành chất lượng sản phẩm cho khách hàng với thời gian như sau:",
+      "timeDesc": "Công ty TNHH Sản Xuất Thương Mại Và Xuất Nhập Khẩu Thành Mịch cam kết bảo hành chất lượng sản phẩm cho khách hàng với thời gian như sau:",
       "timeItems": {
-        "corporate": "Đồng phục công ty: 6 tháng kể từ ngày giao hàng",
-        "student": "Đồng phục học sinh: 6 tháng kể từ ngày giao hàng",
-        "safety": "Đồng phục bảo hộ: 3 tháng kể từ ngày giao hàng",
-        "hotel": "Đồng phục nhà hàng - khách sạn: 6 tháng kể từ ngày giao hàng"
+        "furniture": "Nội thất: 12 tháng kể từ ngày giao hàng",
+        "import": "Hàng hóa nhập khẩu: Theo chính sách bảo hành của nhà sản xuất (tối thiểu 6 tháng)",
+        "trading": "Dịch vụ thương mại: Đảm bảo chất lượng hàng hóa theo hợp đồng"
       },
       "scopeTitle": "Phạm Vi Bảo Hành",
       "scopeDesc": "Sản phẩm được bảo hành miễn phí trong các trường hợp sau:",
       "scopeItems": [
-        "Lỗi sản xuất: Đường may bị sổ, cúc áo bị rơi, khóa kéo hỏng, logo in/thêu bị lỗi",
-        "Lỗi chất liệu: Vải bị phai màu nhanh, co rút quá mức (trên 5%), rách do chất liệu kém",
-        "Lỗi size: Size không đúng với thông tin đã đo (nếu do lỗi của chúng tôi)",
-        "Lỗi hoàn thiện: Sản phẩm có vết bẩn, vết dầu mỡ từ quá trình sản xuất"
+        "Lỗi sản xuất: Sản phẩm có khuyết tật từ nhà sản xuất, lỗi lắp ráp",
+        "Lỗi chất liệu: Gỗ bị nứt, cong vênh, sơn phủ bị bong tróc do lỗi sản xuất",
+        "Lỗi vận chuyển: Hư hỏng do đóng gói không đúng cách trong quá trình vận chuyển",
+        "Lỗi hoàn thiện: Sản phẩm có vết xước, vết bẩn từ quá trình sản xuất/vận chuyển"
       ],
       "notCoveredTitle": "Không Thuộc Phạm Vi Bảo Hành",
       "notCoveredDesc": "Các trường hợp sau không được bảo hành:",
       "notCoveredItems": [
-        "Sản phẩm bị rách, hư hỏng do sử dụng không đúng cách",
-        "Vết bẩn do người sử dụng gây ra trong quá trình sử dụng",
-        "Hư hỏng do giặt ủi sai cách (nhiệt độ quá cao, hóa chất tẩy mạnh)",
+        "Sản phẩm bị hư hỏng do sử dụng không đúng cách, quá tải",
         "Hư hỏng do tai nạn, thiên tai, hỏa hoạn",
-        "Hư hỏng do sửa chữa bởi bên thứ ba",
+        "Hư hỏng do sửa chữa, thay đổi bởi bên thứ ba",
         "Sản phẩm đã hết thời hạn bảo hành",
-        "Hư hỏng do hao mòn tự nhiên sau thời gian sử dụng dài"
+        "Hư hỏng do hao mòn tự nhiên sau thời gian sử dụng dài",
+        "Vết bẩn, hư hỏng do người sử dụng gây ra"
       ],
       "processTitle": "Quy Trình Bảo Hành",
       "processItems": [
@@ -562,26 +512,28 @@
       "notesTitle": "Lưu Ý",
       "notes": [
         "Khách hàng cần giữ lại hóa đơn/phiếu giao hàng để làm thủ tục bảo hành",
-        "Sản phẩm bảo hành phải còn nguyên vẹn, không bị rách nát, không thiếu phụ kiện",
-        "Thời gian bảo hành được tính từ ngày giao hàng theo phiếu giao hàng"
+        "Sản phẩm bảo hành phải còn nguyên vẹn, không bị hư hỏng do sử dụng sai cách",
+        "Thời gian bảo hành được tính từ ngày giao hàng theo phiếu giao hàng",
+        "Đối với hàng nhập khẩu, thời gian bảo hành theo chính sách của nhà sản xuất"
       ]
     },
     "delivery": {
       "title": "🚚 Chính Sách Giao Hàng",
       "timeTitle": "Thời Gian Giao Hàng",
-      "timeDesc": "Thời gian giao hàng phụ thuộc vào số lượng và loại sản phẩm:",
+      "timeDesc": "Thời gian giao hàng phụ thuộc vào loại dịch vụ và nguồn gốc hàng hóa:",
       "timeItems": [
-        "Dưới 100 sản phẩm: 7-10 ngày làm việc",
-        "100-500 sản phẩm: 10-15 ngày làm việc",
-        "500-1.000 sản phẩm: 15-20 ngày làm việc",
-        "Trên 1.000 sản phẩm: 20-30 ngày làm việc (theo thỏa thuận)"
+        "Hàng có sẵn trong kho: 3-5 ngày làm việc",
+        "Hàng nhập khẩu: 15-30 ngày làm việc (tùy theo nguồn gốc và thủ tục hải quan)",
+        "Hàng đặt theo yêu cầu: 20-45 ngày làm việc (theo thỏa thuận)",
+        "Dịch vụ xuất nhập khẩu: Theo tiến độ thủ tục hải quan và vận chuyển"
       ],
-      "timeNote": "Lưu ý: Thời gian trên được tính sau khi khách hàng đã duyệt mẫu và thanh toán tiền đặt cọc (30-50% giá trị hợp đồng).",
+      "timeNote": "Lưu ý: Thời gian trên được tính sau khi khách hàng đã xác nhận đơn hàng và thanh toán tiền đặt cọc (30-50% giá trị hợp đồng).",
       "methodTitle": "Phương Thức Giao Hàng",
       "methodItems": [
         "Giao hàng tận nơi: Miễn phí giao hàng trong nội thành Hà Nội",
         "Giao hàng tỉnh: Khách hàng chịu phí vận chuyển theo đơn vị vận chuyển (Viettel Post, J&T, Viet Nam Post...)",
-        "Nhận hàng tại xưởng: Khách hàng có thể đến trực tiếp xưởng để nhận hàng, không mất phí"
+        "Vận chuyển quốc tế: Hỗ trợ vận chuyển bằng đường biển, đường hàng không, đường bộ",
+        "Nhận hàng tại kho: Khách hàng có thể đến trực tiếp kho để nhận hàng, không mất phí"
       ],
       "processTitle": "Quy Trình Giao Hàng",
       "processItems": [
@@ -611,7 +563,7 @@
         "Giao hàng đúng số lượng theo hợp đồng",
         "Giao hàng đúng thời gian đã cam kết",
         "Đóng gói cẩn thận, đảm bảo sản phẩm không bị hư hỏng trong quá trình vận chuyển",
-        "Mỗi sản phẩm được đóng gói riêng, có nhãn ghi size, tên người nhận (nếu có)"
+        "Mỗi sản phẩm được đóng gói chuyên nghiệp, có nhãn mác và thông tin sản phẩm đầy đủ"
       ],
       "lateTitle": "Xử Lý Khi Giao Hàng Muộn",
       "lateDesc": "Nếu chúng tôi giao hàng muộn so với thời gian cam kết (trừ trường hợp bất khả kháng):",
@@ -626,25 +578,24 @@
       "conditionsTitle": "Điều Kiện Đổi Trả",
       "conditionsDesc": "Khách hàng có quyền đổi trả sản phẩm trong các trường hợp sau:",
       "conditionsItems": [
-        "Sai size: Size không đúng với thông tin đã đặt (nếu do lỗi của chúng tôi)",
         "Sai mẫu: Sản phẩm không đúng với mẫu đã được duyệt",
-        "Sai màu: Màu sắc không đúng với yêu cầu",
+        "Sai màu/kích thước: Màu sắc, kích thước không đúng với yêu cầu",
         "Lỗi sản xuất: Sản phẩm có lỗi từ nhà sản xuất (thuộc phạm vi bảo hành)",
-        "Sai số lượng: Thiếu hoặc thừa số lượng so với đơn hàng"
+        "Sai số lượng: Thiếu hoặc thừa số lượng so với đơn hàng",
+        "Hư hỏng do vận chuyển: Sản phẩm bị hư hỏng trong quá trình vận chuyển"
       ],
       "timeTitle": "Thời Gian Đổi Trả",
       "timeItems": {
-        "size": "Đổi size: Trong vòng 7 ngày kể từ ngày nhận hàng",
-        "color": "Đổi màu/mẫu: Trong vòng 3 ngày kể từ ngày nhận hàng",
+        "model": "Đổi mẫu: Trong vòng 7 ngày kể từ ngày nhận hàng",
+        "color": "Đổi màu/kích thước: Trong vòng 7 ngày kể từ ngày nhận hàng",
         "defect": "Đổi do lỗi: Trong thời hạn bảo hành (xem chính sách bảo hành)"
       },
       "productConditionsTitle": "Điều Kiện Sản Phẩm Đổi Trả",
       "productConditionsDesc": "Sản phẩm đổi trả phải đáp ứng các điều kiện sau:",
       "productConditionsItems": [
         "Còn nguyên vẹn, chưa qua sử dụng",
-        "Còn đầy đủ phụ kiện, nhãn mác",
-        "Chưa giặt, chưa ủi",
-        "Không có vết bẩn, mùi lạ",
+        "Còn đầy đủ phụ kiện, nhãn mác, bao bì",
+        "Không có vết xước, vết bẩn, hư hỏng do sử dụng",
         "Còn hóa đơn/phiếu giao hàng"
       ],
       "processTitle": "Quy Trình Đổi Trả",
@@ -659,7 +610,7 @@
         },
         {
           "step": "Vận chuyển",
-          "desc": "Khách hàng gửi lại sản phẩm về địa chỉ của chúng tôi. Chúng tôi chịu phí vận chuyển nếu do lỗi của chúng tôi. Khách hàng chịu phí vận chuyển nếu do yêu cầu đổi size/màu (trong 7 ngày đầu)"
+          "desc": "Khách hàng gửi lại sản phẩm về địa chỉ của chúng tôi. Chúng tôi chịu phí vận chuyển nếu do lỗi của chúng tôi. Khách hàng chịu phí vận chuyển nếu do yêu cầu đổi mẫu/màu (trong 7 ngày đầu)"
         },
         {
           "step": "Xử lý",
@@ -673,15 +624,16 @@
       "notesTitle": "Lưu Ý",
       "notes": [
         "Mỗi sản phẩm chỉ được đổi trả 1 lần (trừ trường hợp lỗi từ nhà sản xuất)",
-        "Nếu khách hàng yêu cầu đổi sang mẫu khác có giá cao hơn, cần thanh toán thêm phần chênh lệch",
-        "Nếu khách hàng yêu cầu đổi sang mẫu khác có giá thấp hơn, chúng tôi sẽ hoàn lại phần chênh lệch",
-        "Việc đổi trả do lỗi của chúng tôi sẽ được xử lý miễn phí hoàn toàn"
+        "Nếu khách hàng yêu cầu đổi sang sản phẩm khác có giá cao hơn, cần thanh toán thêm phần chênh lệch",
+        "Nếu khách hàng yêu cầu đổi sang sản phẩm khác có giá thấp hơn, chúng tôi sẽ hoàn lại phần chênh lệch",
+        "Việc đổi trả do lỗi của chúng tôi sẽ được xử lý miễn phí hoàn toàn",
+        "Đối với hàng nhập khẩu, việc đổi trả phải tuân thủ quy định của nhà sản xuất"
       ]
     },
     "ctaTitle": "Bạn Có Câu Hỏi Về Chính Sách?",
     "ctaDesc": "Liên hệ với chúng tôi để được giải đáp thắc mắc",
     "ctaContact": "Liên hệ ngay",
-    "ctaCall": "Gọi: 0366 333 168"
+    "ctaCall": "Gọi: 0857 281 982"
   },
   "process": {
     "pageTitle": "Quy Trình Sản Xuất",
@@ -1182,18 +1134,17 @@
       "title": "Thông Tin Ngành Nghề Kinh Doanh",
       "mainIndustry": {
         "label": "Ngành nghề chính:",
-        "value": "May trang phục (trừ trang phục từ da lông thú)"
+        "value": "Bán buôn đồ dùng khác cho gia đình"
       },
       "activityAreas": {
         "label": "Lĩnh vực hoạt động:",
         "items": [
-          "Sản xuất đồng phục công ty",
-          "Sản xuất đồng phục học sinh",
-          "Sản xuất đồng phục bảo hộ lao động",
-          "Sản xuất đồng phục nhà hàng – khách sạn",
-          "Thiết kế đồng phục",
-          "Gia công đồng phục",
-          "In và thêu logo trên đồng phục"
+          "Bán buôn giường, tủ, bàn ghế và đồ dùng nội thất tương tự",
+          "Dịch vụ xuất nhập khẩu",
+          "Dịch vụ thương mại quốc tế",
+          "Tư vấn kinh doanh xuất nhập khẩu",
+          "Vận chuyển và logistics",
+          "Tìm nguồn hàng và đàm phán hợp đồng"
         ]
       }
     },
@@ -1205,14 +1156,14 @@
       },
       "website": {
         "label": "Website:",
-        "value": "https://uniform-quockhanh.store"
+        "value": "https://thanhmichltd.store"
       }
     },
     "cta": {
       "title": "Bạn Cần Liên Hệ Với Chúng Tôi?",
       "desc": "Chúng tôi sẵn sàng tư vấn và hỗ trợ bạn",
       "contact": "Liên hệ ngay",
-      "call": "Gọi: 0366 333 168"
+      "call": "Gọi: 0857 281 982"
     }
   }
 }
