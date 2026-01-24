@@ -1165,5 +1165,12 @@
       "contact": "Liên hệ ngay",
       "call": "Gọi: 0857 281 982"
     }
+  },
+  "error404": {
+    "title": "Trang Không Tìm Thấy",
+    "message": "Xin lỗi, trang bạn đang tìm kiếm không tồn tại hoặc đã bị di chuyển. Vui lòng kiểm tra lại đường dẫn hoặc quay lại trang chủ.",
+    "backHome": "Về Trang Chủ",
+    "contact": "Liên Hệ",
+    "quickLinks": "Liên Kết Nhanh"
   }
 }

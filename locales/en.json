@@ -1166,5 +1166,12 @@
       "contact": "Contact Now",
       "call": "Call: 0857 281 982"
     }
+  },
+  "error404": {
+    "title": "Page Not Found",
+    "message": "Sorry, the page you are looking for does not exist or has been moved. Please check the URL or return to the homepage.",
+    "backHome": "Back to Home",
+    "contact": "Contact Us",
+    "quickLinks": "Quick Links"
   }
 }
