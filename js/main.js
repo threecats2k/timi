@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
         // Close menu when clicking outside
         document.addEventListener('click', function(event) {
-            if (!event.target.closest('.navbar')) {
+            if (!event.target.closest('.navbar-header')) {
                 navMenu.classList.remove('active');
             }
         });
@@ -106,7 +106,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }, observerOptions);
 
     // Observe elements with animation classes
-    const animatedElements = document.querySelectorAll('.service-card, .feature-item, .news-card, .portfolio-item');
+    const animatedElements = document.querySelectorAll('.service-card, .advisory-card, .feature-item, .news-card, .portfolio-item');
     animatedElements.forEach(el => {
         el.style.opacity = '0';
         el.style.transform = 'translateY(20px)';

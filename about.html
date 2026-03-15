@@ -4,32 +4,24 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <meta name="theme-color" content="#c41e3a">
+    <meta name="theme-color" content="#1e3a5f">
     <meta name="format-detection" content="telephone=yes">
-    <title>Giới thiệu - HAI PHAT IDC | Công Ty Xuất Nhập Khẩu</title>
+    <title>Giới thiệu - TIMI VN | Công Nghệ & Đầu Tư</title>
 
     <!-- Favicon -->
-    <link rel="icon" type="image/svg+xml" href="images/favicon.svg">
-    <link rel="shortcut icon" type="image/svg+xml" href="images/favicon.svg">
-    <link rel="apple-touch-icon" href="images/favicon.svg">
+    <link rel="icon" type="image/svg+xml" href="/images/favicon.svg">
+    <link rel="shortcut icon" type="image/svg+xml" href="/images/favicon.svg">
+    <link rel="apple-touch-icon" href="/images/favicon.svg">
     
     <link rel="stylesheet" href="css/styles.css">
     <script src="js/i18n.js" defer></script>
 </head>
 <body>
-    <!-- Header -->
-    <header class="header">
+    <!-- Navbar -->
+    <header class="navbar-header">
         <div class="container">
-            <div class="header-top">
-                <div class="logo">
-                    <a href="index.html" style="display: inline-block;">
-                        <img src="images/logo.svg" alt="HAI PHAT IDC" style="max-height: 80px; width: auto;">
-                    </a>
-                </div>
-                <div class="header-contact">
-                    <a href="tel:0945838333" class="phone-link">📞 <span data-i18n="common.phone">0945 838 333</span></a>
-                    <a href="contact.html" class="btn btn-primary" data-i18n="common.contactNow">Liên hệ ngay</a>
-                </div>
+            <div class="navbar-logo">
+                <a href="index.html"><img src="/images/logo.svg" alt="TIMI VN"></a>
             </div>
             <nav class="navbar">
                 <ul class="nav-menu">
@@ -39,8 +31,11 @@
                     <li><a href="policies.html" data-i18n="common.nav.policies">Chính sách</a></li>
                     <li><a href="contact.html" data-i18n="common.nav.contact">Liên hệ</a></li>
                 </ul>
-                <button class="mobile-menu-toggle" aria-label="Toggle menu" data-i18n-aria-label="common.nav.menu">☰</button>
             </nav>
+            <div class="nav-cta">
+                <a href="contact.html" class="btn btn-primary" data-i18n="common.contactNow">Liên hệ ngay</a>
+            </div>
+            <button class="mobile-menu-toggle" aria-label="Toggle menu" data-i18n-aria-label="common.nav.menu">☰</button>
         </div>
     </header>
 
@@ -64,9 +59,9 @@
 
     <!-- About Content -->
     <section class="content-section">
-        <div class="container">
-            <div class="content-section">
-                <h1 data-i18n="about.intro.title">Về Công Ty TNHH Quốc Khánh Uniform Việt Nam</h1>
+        <div class="container content-narrow">
+            <div class="content-block">
+                <h1 class="page-content-title" data-i18n="about.intro.title">Về Công Ty TNHH Đầu Tư Và Công Nghệ TIMI</h1>
                 
                 <p data-i18n="about.intro.desc">Công ty TNHH Quốc Khánh Uniform Việt Nam được thành lập vào ngày 10 tháng 5 năm 2019, với mục tiêu trở thành đơn vị hàng đầu trong lĩnh vực sản xuất, thiết kế và gia công đồng phục tại Việt Nam. Với hơn 5 năm kinh nghiệm trong ngành may mặc, chúng tôi tự hào là đối tác tin cậy của hàng trăm doanh nghiệp, trường học và tổ chức trên toàn quốc.</p>
 
@@ -137,55 +132,41 @@
                 </ul>
 
                 <h2 data-i18n="about.contact.title">Địa Chỉ & Liên Hệ</h2>
-                <p><strong data-i18n="about.contact.headquarters">Trụ sở chính:</strong> Thôn 3, Xã Vạn Phúc, Huyện Thanh Trì, TP Hà Nội, Việt Nam</p>
-                <p><strong data-i18n="about.contact.phone">Điện thoại:</strong> <a href="tel:0945838333">0945 838 333</a></p>
-                <p><strong data-i18n="about.contact.email">Email:</strong> <a href="mailto:contact@haiphatidc.store">contact@haiphatidc.store</a></p>
+                <p><strong data-i18n="about.contact.headquarters">Trụ sở chính:</strong> Số 17 ngõ 36 Lê Thanh Nghị, Phường Bách Khoa, Quận Hai Bà Trưng, Hà Nội</p>
+                <p><strong data-i18n="about.contact.phone">Điện thoại:</strong> <a href="tel:0357256299">0357 256 299</a></p>
+                <p><strong data-i18n="about.contact.email">Email:</strong> <a href="mailto:contact@timi-invest.store">contact@timi-invest.store</a></p>
                 <p><strong data-i18n="about.contact.workingHours">Thời gian làm việc:</strong> <span data-i18n="about.contact.hours">Thứ 2 - Thứ 7: 8:00 - 17:00 | Chủ nhật: 8:00 - 12:00</span></p>
             </div>
         </div>
     </section>
 
     <!-- Footer -->
-    <footer class="footer">
+    <footer class="site-footer">
         <div class="container">
             <div class="footer-grid">
                 <div class="footer-col">
-                    <h3 data-i18n="common.logo">HAI PHAT IDC</h3>
-                    <p data-i18n="common.footer.companyDesc">Công ty TNHH Sản Xuất Thương Mại Và Xuất Nhập Khẩu Thành Mịch - Chuyên xuất nhập khẩu và bán buôn nội thất chất lượng cao</p>
-                    <div class="footer-contact">
-                        <p>📍 <span data-i18n="common.footer.address">Thôn 3, Xã Vạn Phúc, Huyện Thanh Trì, TP Hà Nội, Việt Nam</span></p>
-                        <p>📞 <a href="tel:0945838333" data-i18n="common.phone">0945 838 333</a></p>
-                        <p>📧 <a href="mailto:contact@haiphatidc.store" data-i18n="common.footer.email">contact@haiphatidc.store</a></p>
-                    </div>
-                </div>
-                <div class="footer-col">
-                    <h4 data-i18n="common.footer.services">Dịch vụ</h4>
-                    <ul>
-                        <li><a href="services.html#import" data-i18n="common.footer.importExport">Xuất nhập khẩu</a></li>
-                        <li><a href="services.html#furniture" data-i18n="common.footer.furniture">Bán buôn nội thất</a></li>
-                        <li><a href="services.html#trading" data-i18n="common.footer.trading">Dịch vụ thương mại</a></li>
-                        <li><a href="services.html#consulting" data-i18n="common.footer.consulting">Tư vấn kinh doanh</a></li>
-                    </ul>
+                    <h3 data-i18n="common.footer.companyName">CÔNG TY TNHH ĐẦU TƯ VÀ CÔNG NGHỆ TIMI</h3>
+                    <p data-i18n="common.footer.companyDesc">Công ty TNHH Đầu tư và Công nghệ TIMI - Bán lẻ nước hoa, mỹ phẩm, thiết bị y tế và sản phẩm vệ sinh tại cửa hàng chuyên doanh</p>
                 </div>
                 <div class="footer-col">
                     <h4 data-i18n="common.footer.info">Thông tin</h4>
                     <ul>
                         <li><a href="about.html" data-i18n="common.nav.about">Giới thiệu</a></li>
-                    </ul>
-                </div>
-                <div class="footer-col">
-                    <h4 data-i18n="common.footer.support">Hỗ trợ</h4>
-                    <ul>
-                        <li><a href="policies.html" data-i18n="common.footer.warrantyPolicy">Chính sách bảo hành</a></li>
-                        <li><a href="policies.html#delivery" data-i18n="common.footer.deliveryPolicy">Chính sách giao hàng</a></li>
-                        <li><a href="policies.html#return" data-i18n="common.footer.returnPolicy">Chính sách đổi trả</a></li>
+                        <li><a href="services.html" data-i18n="common.nav.services">Dịch vụ</a></li>
+                        <li><a href="policies.html" data-i18n="common.nav.policies">Chính sách</a></li>
                         <li><a href="contact.html" data-i18n="common.nav.contact">Liên hệ</a></li>
                         <li><a href="company-info.html" data-i18n="common.footer.companyInfo">Thông tin doanh nghiệp</a></li>
                     </ul>
                 </div>
+                <div class="footer-col">
+                    <h4 data-i18n="common.footer.addressLabel">Địa chỉ</h4>
+                    <p data-i18n="common.footer.address">Số 17 ngõ 36 Lê Thanh Nghị, Phường Bách Khoa, Quận Hai Bà Trưng, Hà Nội</p>
+                    <p><a href="tel:0357256299" data-i18n="common.phone">0357 256 299</a></p>
+                    <p><a href="mailto:contact@timi-invest.store" data-i18n="common.footer.email">contact@timi-invest.store</a></p>
+                </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; <span data-i18n="common.footer.copyright">2024 Công ty TNHH Sản Xuất Thương Mại Và Xuất Nhập Khẩu Thành Mịch. MST: 0108441190</span></p>
+                <p>&copy; <span data-i18n="common.footer.copyright">2025 Công ty TNHH Đầu tư và Công nghệ TIMI. MST: 0110641831</span></p>
             </div>
         </div>
     </footer>

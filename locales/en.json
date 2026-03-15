@@ -1,61 +1,64 @@
 {
   "meta": {
     "index": {
-      "title": "HAI PHAT IDC - Professional Investment Development and Construction Company",
-      "description": "HAI PHAT INVESTMENT DEVELOPMENT AND CONSTRUCTION JOINT STOCK COMPANY - Professional construction services for civil, industrial, transportation and technical infrastructure projects"
+      "title": "TIMI VN - TIMI Technology and Investment Company Limited | Cosmetics - Medical Equipment",
+      "description": "TIMI Technology and Investment Company Limited - Retail of perfumes, cosmetics, medical equipment and hygiene products in specialized stores"
     },
     "about": {
-      "title": "About Us - HAI PHAT IDC | Construction Company",
-      "description": "About HAI PHAT INVESTMENT DEVELOPMENT AND CONSTRUCTION JOINT STOCK COMPANY - Professional construction services with over 6 years of experience"
+      "title": "About Us - TIMI VN | Technology & Investment",
+      "description": "About TIMI Technology and Investment Company Limited - Retail of cosmetics, medical equipment, hygiene products"
     },
     "services": {
-      "title": "Services - HAI PHAT IDC | Construction Services",
-      "description": "HAI PHAT IDC's services: Civil construction, industrial construction, transportation construction. High quality, reliable"
+      "title": "Services - TIMI VN | Investment & Technology",
+      "description": "TIMI VN services: Investment, technology, retail of perfumes, cosmetics, medical equipment, hygiene products"
     },
     "contact": {
-      "title": "Contact - HAI PHAT IDC | Construction Consultation",
-      "description": "Contact HAI PHAT IDC - Professional construction company. Address: Thon 3, Xa Van Phuc, Thanh Tri District, Hanoi. Phone: 0945 838 333"
+      "title": "Contact - TIMI VN | Consultation",
+      "description": "Contact TIMI VN - No. 17, Alley 36 Le Thanh Nghi, Bach Khoa, Hai Ba Trung, Hanoi. Phone: 0357 256 299"
     },
     "policies": {
-      "title": "Policies - HAI PHAT IDC | Warranty - Delivery - Return",
-      "description": "Warranty, delivery, and return policies of HAI PHAT IDC. Commitment to the best project quality and service for customers"
+      "title": "Policies - TIMI VN | Warranty - Delivery - Return",
+      "description": "Warranty, delivery and return policies of TIMI VN. Commitment to the best product quality and service"
     },
     "privacy": {
-      "title": "Privacy Policy - HAI PHAT IDC",
-      "description": "Privacy policy of HAI PHAT INVESTMENT DEVELOPMENT AND CONSTRUCTION JOINT STOCK COMPANY - Commitment to protecting customer information"
+      "title": "Privacy Policy - TIMI VN",
+      "description": "Privacy policy of TIMI Technology and Investment Company Limited - Protecting customer information"
     }
   },
   "common": {
-    "logo": "HAI PHAT IDC",
-    "tagline": "Quality - Trust - Professionalism",
-    "phone": "0945 838 333",
+    "logo": "TIMI VN",
+    "tagline": "Technology - Investment - Quality",
+    "phone": "0357 256 299",
     "contactNow": "Contact Now",
     "nav": {
       "home": "Home",
       "about": "About",
       "services": "Services",
       "process": "Process",
-      "portfolio": "Portfolio",
+      "portfolio": "Products",
       "news": "News",
       "policies": "Policies",
-      "contact": "Contact"
+      "contact": "Contact",
+      "menu": "Toggle menu"
     },
     "footer": {
-      "companyDesc": "HAI PHAT INVESTMENT DEVELOPMENT AND CONSTRUCTION JOINT STOCK COMPANY - Professional construction services for civil, industrial, transportation and technical infrastructure projects",
-      "address": "Thon 3, Xa Van Phuc, Thanh Tri District, Hanoi, Vietnam",
-      "email": "contact@haiphatidc.store",
+      "companyName": "TIMI TECHNOLOGY AND INVESTMENT COMPANY LIMITED",
+      "companyDesc": "TIMI Technology and Investment Company Limited - Retail of perfumes, cosmetics, medical equipment and hygiene products in specialized stores",
+      "addressLabel": "Address",
+      "address": "No. 17, Alley 36 Le Thanh Nghi, Bach Khoa Ward, Hai Ba Trung District, Hanoi",
+      "email": "contact@timi-invest.store",
       "services": "Services",
       "info": "Information",
       "support": "Support",
-      "importExport": "Civil Construction",
-      "furniture": "Industrial Construction",
-      "trading": "Transportation Construction",
-      "consulting": "Technical Infrastructure",
+      "importExport": "Perfumes & Cosmetics",
+      "furniture": "Medical Equipment",
+      "trading": "Hygiene Products",
+      "consulting": "Investment & Technology",
       "warrantyPolicy": "Warranty Policy",
       "deliveryPolicy": "Delivery Policy",
       "returnPolicy": "Return Policy",
       "companyInfo": "Company Information",
-      "copyright": "2024 HAI PHAT INVESTMENT DEVELOPMENT AND CONSTRUCTION JOINT STOCK COMPANY. Tax ID: 0108441190"
+      "copyright": "2025 TIMI Technology and Investment Company Limited. Tax ID: 0110641831"
     },
     "breadcrumb": {
       "home": "Home"
@@ -63,93 +66,141 @@
   },
   "index": {
     "hero": {
-      "title": "Professional Construction Specialist",
-      "subtitle": "Professional construction services for civil, industrial, transportation and technical infrastructure projects with international standards",
+      "title": "Investment & Technology — Serving All Your Needs",
+      "subtitle": "TIMI VN specializes in retail of perfumes, cosmetics, medical equipment and hygiene products. Your trusted partner in technology and investment",
       "viewServices": "View Services",
-      "getQuote": "Contact Us"
+      "getQuote": "Contact Us",
+      "expertStat": "30+ Expert Advisors"
+    },
+    "advisory": {
+      "card1": {
+        "title": "Investment",
+        "desc": "Professional investment solutions, consulting and support for sustainable growth",
+        "exploreMore": "Details →"
+      },
+      "card2": {
+        "title": "Technology",
+        "desc": "Technology application in retail and supply chain management",
+        "exploreMore": "Details →"
+      },
+      "card3": {
+        "title": "Premium Retail",
+        "desc": "Perfumes, cosmetics, medical equipment and hygiene products in specialized stores",
+        "exploreMore": "Details →"
+      }
+    },
+    "about": {
+      "label": "About Us",
+      "title": "About TIMI VN",
+      "subtitle": "TIMI Technology and Investment Company Limited - Retail in specialized stores",
+      "desc": "We offer perfumes, cosmetics, medical equipment and hygiene products of the highest quality, serving customers with dedication and professionalism.",
+      "statYears": "5+ Years",
+      "statClients": "100+ Clients",
+      "cta": "About Agency"
     },
     "services": {
+      "label": "Services",
       "title": "Main Services",
-      "subtitle": "We provide comprehensive construction solutions",
+      "subtitle": "Investment, technology and professional retail solutions",
       "import": {
-        "title": "Civil Construction",
-        "desc": "Construction of residential buildings, apartments, schools, hospitals and other civil projects",
+        "title": "Perfumes & Cosmetics",
+        "desc": "Retail of perfumes and cosmetics in specialized stores, genuine products, guaranteed quality",
         "detail": "Details →"
       },
       "furniture": {
-        "title": "Industrial Construction",
-        "desc": "Construction of factories, warehouses, industrial facilities with high quality",
+        "title": "Medical Equipment",
+        "desc": "Retail of medical equipment and healthcare devices in specialized stores",
         "detail": "Details →"
       },
       "trading": {
-        "title": "Transportation Construction",
-        "desc": "Construction of roads, bridges, tunnels and modern transportation infrastructure",
+        "title": "Hygiene Products",
+        "desc": "Retail of personal and household hygiene products in specialized stores",
         "detail": "Details →"
       },
       "consulting": {
-        "title": "Technical Infrastructure",
-        "desc": "Construction of water supply, drainage, electricity, telecommunications and technical infrastructure",
+        "title": "Investment & Technology",
+        "desc": "Investment activities and technology application in retail business",
         "detail": "Details →"
       }
     },
+    "products": {
+      "title": "Products",
+      "subtitle": "Main product categories of TIMI VN",
+      "perfumes": {
+        "title": "Perfumes",
+        "desc": "Retail of perfumes in specialized stores"
+      },
+      "cosmetics": {
+        "title": "Cosmetics",
+        "desc": "Genuine cosmetics, diverse range"
+      },
+      "medical": {
+        "title": "Medical Equipment",
+        "desc": "Medical equipment and healthcare devices"
+      },
+      "hygiene": {
+        "title": "Hygiene Products",
+        "desc": "Personal and household hygiene products"
+      }
+    },
     "whyChoose": {
-      "title": "Why Choose HAI PHAT IDC?",
+      "title": "Why Choose TIMI VN?",
       "exp": {
-        "title": "Extensive Experience",
-        "desc": "Over 6 years of experience in construction, completed many large and small projects"
+        "title": "Professional",
+        "desc": "Experienced team in retail of cosmetics, medical equipment and hygiene products"
       },
       "quality": {
         "title": "Guaranteed Quality",
-        "desc": "High-quality construction projects, meeting technical standards, ensuring durability and safety"
+        "desc": "Genuine products, clear origin, safe and quality assured"
       },
       "price": {
         "title": "Competitive Pricing",
-        "desc": "Reasonable prices, transparent quotes, no hidden costs"
+        "desc": "Reasonable prices, transparent, no hidden costs"
       },
       "delivery": {
         "title": "On-Time Delivery",
-        "desc": "Commitment to on-time delivery, ensuring shipping progress for customers"
+        "desc": "Commitment to on-time delivery for customers"
       },
       "support": {
         "title": "Dedicated Support",
-        "desc": "Professional consulting team, providing free import-export procedure consultation"
+        "desc": "Professional consultation, support before and after sales"
       },
       "warranty": {
-        "title": "After-Sales Service",
-        "desc": "Customer support after sales, quickly resolving any issues that arise"
+        "title": "After-Sales Policy",
+        "desc": "Warranty and return per policy, quick resolution of issues"
       }
     },
     "process": {
       "title": "Work Process",
       "consult": {
-        "title": "Consultation & Quote",
-        "desc": "Receive requests, consult and provide detailed quotes within 24 hours"
+        "title": "Consultation",
+        "desc": "Receive requests, advise on suitable products"
       },
       "design": {
         "title": "Product Selection",
-        "desc": "Select products according to requirements, revise until customer satisfaction"
+        "desc": "Customers choose products according to needs"
       },
       "produce": {
-        "title": "Order Processing",
-        "desc": "Process orders, quality inspection at each stage"
+        "title": "Order Confirmation",
+        "desc": "Confirm order and prepare for delivery"
       },
       "deliver": {
-        "title": "Shipping & Delivery",
-        "desc": "International shipping, inspection and product acceptance"
+        "title": "Delivery",
+        "desc": "Home delivery, inspection and acceptance"
       },
       "viewDetail": "View detailed process"
     },
     "stats": {
-      "projects": "Completed Projects",
-      "clients": "Trusted Partners",
+      "projects": "Diverse Products",
+      "clients": "Trusted Customers",
       "satisfied": "Satisfied Customers",
       "experience": "Years of Experience"
     },
     "cta": {
-      "title": "Start Your Construction Project Today",
-      "subtitle": "Contact us for free consultation on construction services",
+      "title": "Connect With TIMI VN Today",
+      "subtitle": "Contact us for product consultation and support",
       "contact": "Contact Now",
-      "call": "Call: 0945 838 333"
+      "call": "Call: 0357 256 299"
     }
   },
   "contact": {
@@ -181,10 +232,10 @@
       "companyPlaceholder": "Enter company/organization name",
       "service": "Service Type",
       "serviceSelect": "-- Select service type --",
-      "serviceImport": "Import Export Services",
-      "serviceFurniture": "Furniture Wholesale",
-      "serviceTrading": "Trading Services",
-      "serviceConsulting": "Business Consulting",
+      "serviceImport": "Perfumes & Cosmetics",
+      "serviceFurniture": "Medical Equipment",
+      "serviceTrading": "Hygiene Products",
+      "serviceConsulting": "Investment & Technology",
       "serviceOther": "Other",
       "quantity": "Expected Quantity",
       "quantityPlaceholder": "Enter quantity (products/containers)",
@@ -195,15 +246,15 @@
     "features": {
       "consult": {
         "title": "📞 Free Consultation",
-        "desc": "We provide free consultation on design, materials and pricing. Contact us by phone or email."
+        "desc": "We provide free consultation on perfumes, cosmetics, medical equipment and hygiene products. Contact us by phone or email."
       },
       "quote": {
         "title": "💰 Fast Quote",
-        "desc": "Receive detailed quote within 24 hours after submitting request. Transparent pricing, no hidden costs."
+        "desc": "Receive detailed quote within 24 hours. Transparent pricing, no hidden costs."
       },
       "delivery": {
-        "title": "🚚 Home Delivery",
-        "desc": "Free delivery within Hanoi city center. On-time delivery, quality guaranteed."
+        "title": "🚚 Professional Delivery",
+        "desc": "On-time delivery, product quality guaranteed."
       },
       "warranty": {
         "title": "🛡️ Quality Warranty",
@@ -219,81 +270,80 @@
   },
   "about": {
     "pageTitle": "About the Company",
-    "pageSubtitle": "HAI PHAT INVESTMENT DEVELOPMENT AND CONSTRUCTION JOINT STOCK COMPANY - Professional construction services",
+    "pageSubtitle": "TIMI Technology and Investment Company Limited - Retail of perfumes, cosmetics, medical equipment and hygiene products",
     "breadcrumb": "About",
     "intro": {
-      "title": "About HAI PHAT INVESTMENT DEVELOPMENT AND CONSTRUCTION JOINT STOCK COMPANY",
-      "desc": "HAI PHAT INVESTMENT DEVELOPMENT AND CONSTRUCTION JOINT STOCK COMPANY was established on September 24, 2018, with the goal of becoming a leading unit in the field of construction in Vietnam. With over 6 years of experience in construction, we are proud to be a trusted partner of hundreds of businesses domestically and internationally."
+      "title": "About TIMI Technology and Investment Company Limited",
+      "desc": "TIMI Technology and Investment Company Limited operates in the retail of perfumes, cosmetics, medical equipment and hygiene products in specialized stores. We are committed to providing high-quality products, clear origin and professional service to our customers."
     },
     "mission": {
       "title": "Mission & Vision",
       "missionTitle": "Mission",
-      "missionDesc": "We are committed to providing professional construction services and high-quality projects that meet all customer requirements. Each project reflects the dedication, professionalism and responsibility of the HAI PHAT IDC team.",
+      "missionDesc": "We are committed to providing high-quality products and professional service in the retail of cosmetics, medical equipment and hygiene products. Every product reflects the dedication and responsibility of the TIMI VN team.",
       "visionTitle": "Vision",
-      "visionDesc": "To become Vietnam's leading import-export and trading company, trusted and chosen by customers thanks to outstanding service quality, professionalism and competitive prices."
+      "visionDesc": "To become a trusted retail unit in cosmetics, medical equipment and hygiene products, chosen by customers for outstanding quality and professional service."
     },
     "activity": {
       "title": "Business Areas",
-      "industry": "Wholesale of other household goods",
+      "industry": "Retail of perfumes, cosmetics, medical equipment and hygiene products in specialized stores",
       "mainAreas": "Main areas:",
       "areas": [
-        "Import-export: Import-export services for furniture and household goods",
-        "Furniture wholesale: Beds, cabinets, tables, chairs and similar furniture",
-        "Trading services: Sourcing, negotiation, contract signing",
-        "Business consulting: Consulting on import-export procedures, legal regulations",
-        "International shipping: Shipping and logistics support"
+        "Retail of perfumes in specialized stores",
+        "Retail of cosmetics in specialized stores",
+        "Retail of medical equipment in specialized stores",
+        "Retail of hygiene products in specialized stores",
+        "Investment and technology related activities"
       ]
     },
     "capacity": {
       "title": "Business Capacity",
       "network": {
-        "title": "Partner Network",
-        "desc": "We have a wide network of partners domestically and internationally:",
+        "title": "Supply Network",
+        "desc": "We work with reputable suppliers:",
         "items": [
-          "Import partners: China, Thailand, Malaysia, Indonesia",
-          "Export partners: Asian, European, American markets",
-          "Furniture suppliers: Reputable furniture manufacturers domestically and internationally",
-          "Logistics partners: Reputable international shipping companies"
+          "Perfume and cosmetics suppliers, genuine brands",
+          "Medical equipment suppliers meeting standards",
+          "Quality hygiene product suppliers",
+          "Logistics partners for on-time delivery"
         ]
       },
       "volume": {
-        "title": "Business Volume",
-        "desc": "With experience and partner network, our business capacity:",
+        "title": "Scope of Operations",
+        "desc": "With a technology and investment focus:",
         "items": [
-          "Furniture imports: 500-1,000 containers/year",
-          "Furniture wholesale: Hundreds of orders/month",
-          "Import-export services: Supporting hundreds of transactions/year",
-          "Trading services: Connecting hundreds of partners domestically and internationally"
+          "Retail in specialized stores",
+          "Diverse product range",
+          "Serving individual and organizational customers",
+          "Expanding sales channels and services"
         ]
       },
       "services": {
         "title": "Services & Quality",
-        "desc": "We provide professional services:",
+        "desc": "We are committed to:",
         "items": [
-          "Customs procedures: Support completing procedures quickly and accurately",
-          "International shipping: Sea, air, and road transport",
-          "Legal consulting: Support on import-export regulations, taxes, fees",
-          "Quality inspection: Ensuring goods meet standards before delivery"
+          "Genuine products, clear origin",
+          "Professional, dedicated consultation",
+          "On-time delivery, careful packaging",
+          "Warranty and return per policy"
         ]
       }
     },
     "team": {
       "title": "Human Resources",
-      "desc": "HAI PHAT IDC is proud to have a professional and experienced team:",
+      "desc": "TIMI VN is proud to have a professional team:",
       "items": [
-        "Consulting team: Well-versed in import-export regulations, experienced",
-        "Customs procedures staff: Processing procedures quickly and accurately",
-        "Business staff: Connecting customers with reputable suppliers",
-        "Logistics staff: Managing shipping and warehouses efficiently",
-        "QC staff: Strict quality inspection of goods"
+        "Sales consultants: Product knowledge, enthusiastic",
+        "Business staff: Connecting customers and providing solutions",
+        "Warehouse and delivery staff: Ensuring on-time delivery",
+        "Customer care: Support and answering inquiries"
       ]
     },
     "certificates": {
       "title": "Certifications & Permits",
       "items": [
-        "Business registration certificate: Tax ID 0108441190",
-        "Import-export license",
-        "Reputable partner certification from international suppliers"
+        "Business registration certificate: Tax ID 0110641831",
+        "Retail operations in specialized stores",
+        "Compliance with regulations on cosmetics and medical equipment"
       ]
     },
     "contact": {
@@ -306,60 +356,60 @@
     }
   },
   "services": {
-    "pageTitle": "Import Export & Trading Services",
-    "pageSubtitle": "Professional - Quality - Trustworthy",
+    "pageTitle": "Services - Investment & Technology",
+    "pageSubtitle": "Retail of perfumes, cosmetics, medical equipment and hygiene products",
     "breadcrumb": "Services",
     "import": {
-      "title": "🌍 Import Export Services",
-      "desc": "Professional import-export services, customs clearance support, international shipping. We provide comprehensive import-export solutions with extensive experience and a wide network of partners.",
-      "servicesTitle": "Services",
+      "title": "🌿 Perfumes & Cosmetics",
+      "desc": "Retail of perfumes and cosmetics in specialized stores. Genuine products, clear origin, diverse range.",
+      "servicesTitle": "Products & Services",
       "services": [
         {
-          "title": "Customs Procedures",
-          "desc": "Support completing customs procedures, declaration, inspection and clearance of goods quickly and accurately."
+          "title": "Perfumes",
+          "desc": "Retail of genuine perfumes in specialized stores, diverse brands."
         },
         {
-          "title": "International Shipping",
-          "desc": "International shipping services by sea, air, and road with competitive prices."
+          "title": "Skincare Cosmetics",
+          "desc": "Skincare products for face and body, clear origin, safe."
         },
         {
-          "title": "Import Export Documents",
-          "desc": "Support preparing various documents: Invoice, Packing List, C/O, B/L, AWB as required."
+          "title": "Makeup",
+          "desc": "Diverse makeup products for every need."
         },
         {
-          "title": "Legal Consulting",
-          "desc": "Consulting on import-export regulations, taxes, fees and related legal issues."
+          "title": "Product Consultation",
+          "desc": "Consultation team helps customers choose suitable products."
         }
       ],
       "featuresTitle": "Features",
       "features": [
-        "Experienced team, well-versed in import-export regulations",
-        "Wide network of partners, competitive prices",
-        "Quick processing, on-time delivery as committed",
-        "24/7 support, timely problem resolution",
-        "Transparent costs, no hidden fees"
+        "Genuine products, clear origin",
+        "Diverse brands, competitive prices",
+        "Professional, dedicated consultation",
+        "On-time delivery, careful packaging",
+        "Clear warranty and return policy"
       ]
     },
     "furniture": {
-      "title": "🪑 Furniture Wholesale",
-      "desc": "Wholesale of beds, cabinets, tables, chairs and similar furniture with high quality and competitive prices. We provide diverse furniture products to meet all needs.",
+      "title": "🏥 Medical Equipment",
+      "desc": "Retail of medical equipment and healthcare devices in specialized stores. Standards-compliant products for healthcare needs.",
       "productsTitle": "Products",
       "products": [
         {
-          "title": "Beds",
-          "desc": "Diverse bed designs, high-quality wood and metal materials, suitable for all spaces."
+          "title": "Measurement Devices",
+          "desc": "Blood pressure monitors, thermometers, glucose meters and other health measurement devices."
         },
         {
-          "title": "Wardrobes",
-          "desc": "Wardrobes in various sizes, modern design, convenient, durable quality."
+          "title": "Medical Supplies",
+          "desc": "Wound care supplies, home treatment support."
         },
         {
-          "title": "Tables & Chairs",
-          "desc": "Office tables and chairs, dining tables and chairs, living room furniture with beautiful designs."
+          "title": "Support Equipment",
+          "desc": "Mobility aids, elderly care equipment."
         },
         {
-          "title": "Other Furniture",
-          "desc": "Shelves, glass cabinets, dressing tables and other furniture as required."
+          "title": "Healthcare Products",
+          "desc": "Personal and family healthcare products."
         }
       ],
       "featuresTitle": "Features",
@@ -372,39 +422,39 @@
       ]
     },
     "trading": {
-      "title": "📦 Trading Services",
-      "desc": "Comprehensive trading services, sourcing support, negotiation and contract signing. We connect customers with reputable suppliers domestically and internationally.",
-      "servicesTitle": "Services",
+      "title": "🧴 Hygiene Products",
+      "desc": "Retail of personal and household hygiene products in specialized stores. Diverse range, quality assured.",
+      "servicesTitle": "Products",
       "services": [
         {
-          "title": "Sourcing",
-          "desc": "Support finding reputable suppliers that match customer requirements and budget."
+          "title": "Personal Hygiene",
+          "desc": "Daily personal hygiene products, safe and quality."
         },
         {
-          "title": "Contract Negotiation",
-          "desc": "Support negotiating prices and contract terms to achieve the best agreement."
+          "title": "Household Hygiene",
+          "desc": "Household cleaning products, diverse and effective."
         },
         {
-          "title": "Quality Inspection",
-          "desc": "Inspect product quality before delivery, ensuring standards are met."
+          "title": "Health Care",
+          "desc": "Products for hygiene and health care support."
         },
         {
-          "title": "Order Management",
-          "desc": "Track and manage orders from placement to delivery."
+          "title": "Usage Guidance",
+          "desc": "Guidance on proper and safe use."
         }
       ],
       "featuresTitle": "Features",
       "features": [
-        "Wide network of partners domestically and internationally",
-        "Negotiation experience, achieving best prices",
-        "Ensuring product quality as required",
-        "Comprehensive support from sourcing to delivery",
-        "Transparent and clear in all transactions"
+        "Diverse products, quality assured",
+        "Competitive prices, transparent",
+        "Fast, on-time delivery",
+        "Professional consultation",
+        "Clear return policy"
       ]
     },
     "consulting": {
-      "title": "🤝 Business Consulting",
-      "desc": "Consulting on import-export procedures, legal regulations and international trade strategies. We help customers understand and comply with legal regulations.",
+      "title": "💼 Investment & Technology",
+      "desc": "Investment activities and technology application in retail. TIMI VN combines technology to enhance customer experience.",
       "servicesTitle": "Consulting Services",
       "services": [
         {
@@ -433,10 +483,10 @@
         "Long-term support, accompanying customers"
       ]
     },
-    "ctaTitle": "Need Consultation on Services?",
-    "ctaDesc": "Contact us for detailed quote and free consultation",
+    "ctaTitle": "Need Product Consultation?",
+    "ctaDesc": "Contact us for consultation and support",
     "ctaContact": "Contact Now",
-    "ctaCall": "Call: 0945 838 333"
+    "ctaCall": "Call: 0357 256 299"
   },
   "policies": {
     "pageTitle": "Policies",
@@ -448,14 +498,14 @@
         "title": "I. Privacy Policy for Website",
         "items": [
           "The website does not collect any personal information from users.",
-          "The website only provides information about HAI PHAT INVESTMENT DEVELOPMENT AND CONSTRUCTION JOINT STOCK COMPANY.",
+          "The website only provides information about TIMI TECHNOLOGY AND INVESTMENT COMPANY LIMITED.",
           "The website does not use cookies, tracking codes, or any other tracking technology."
         ]
       },
       "mobile": {
         "title": "II. Privacy Policy for Mobile Application",
         "items": [
-          "The mobile application is only intended to introduce HAI PHAT INVESTMENT DEVELOPMENT AND CONSTRUCTION JOINT STOCK COMPANY and the company's construction services.",
+          "The mobile application is only intended to introduce TIMI TECHNOLOGY AND INVESTMENT COMPANY LIMITED and the company's products and services.",
           "The application does not collect any personal data from users.",
           "The application does not require users to create an account or log in.",
           "The application does not track user behavior, activities, or location.",
@@ -466,7 +516,7 @@
     "warranty": {
       "title": "🛡️ Warranty Policy",
       "timeTitle": "Warranty Period",
-      "timeDesc": "HAI PHAT INVESTMENT DEVELOPMENT AND CONSTRUCTION JOINT STOCK COMPANY commits to warranty project quality for customers with the following periods:",
+      "timeDesc": "TIMI Technology and Investment Company Limited commits to product quality warranty for customers with the following periods:",
       "timeItems": {
         "furniture": "Furniture: 12 months from delivery date",
         "import": "Imported goods: According to manufacturer's warranty policy (minimum 6 months)",
@@ -634,7 +684,7 @@
     "ctaTitle": "Have Questions About Policies?",
     "ctaDesc": "Contact us for answers to your questions",
     "ctaContact": "Contact Now",
-    "ctaCall": "Call: 0945 838 333"
+    "ctaCall": "Call: 0357 256 299"
   },
   "process": {
     "pageTitle": "Production Process",
@@ -1135,17 +1185,16 @@
       "title": "Business Activities Information",
       "mainIndustry": {
         "label": "Main Industry:",
-        "value": "Wholesale of other household goods"
+        "value": "Retail of perfumes, cosmetics, medical equipment and hygiene products in specialized stores"
       },
       "activityAreas": {
         "label": "Activity Areas:",
         "items": [
-          "Wholesale of beds, cabinets, tables, chairs and similar furniture",
-          "Import-export services",
-          "International trading services",
-          "Import-export business consulting",
-          "Shipping and logistics",
-          "Sourcing and contract negotiation"
+          "Retail of perfumes in specialized stores",
+          "Retail of cosmetics in specialized stores",
+          "Retail of medical equipment in specialized stores",
+          "Retail of hygiene products in specialized stores",
+          "Investment and technology activities"
         ]
       }
     },
@@ -1157,14 +1206,14 @@
       },
       "website": {
         "label": "Website:",
-        "value": "https://haiphatidc.store"
+        "value": "https://timi-invest.store"
       }
     },
     "cta": {
       "title": "Need to Contact Us?",
       "desc": "We are ready to consult and support you",
       "contact": "Contact Now",
-      "call": "Call: 0945 838 333"
+      "call": "Call: 0357 256 299"
     }
   },
   "error404": {

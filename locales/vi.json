@@ -1,61 +1,64 @@
 {
   "meta": {
     "index": {
-      "title": "HAI PHAT IDC - Công Ty Đầu Tư Phát Triển Và Xây Dựng Chuyên Nghiệp",
-      "description": "Công ty Cổ phần Đầu tư Phát triển và Xây dựng Hải Phát - Chuyên xây dựng công trình dân dụng, công nghiệp, giao thông và hạ tầng kỹ thuật"
+      "title": "TIMI VN - Công Ty TNHH Đầu Tư Và Công Nghệ TIMI | Mỹ phẩm - Thiết bị y tế",
+      "description": "Công ty TNHH Đầu tư và Công nghệ TIMI - Bán lẻ nước hoa, mỹ phẩm, thiết bị y tế và sản phẩm vệ sinh tại cửa hàng chuyên doanh"
     },
     "about": {
-      "title": "Giới thiệu - HAI PHAT IDC | Công Ty Xây Dựng",
-      "description": "Giới thiệu về Công ty Cổ phần Đầu tư Phát triển và Xây dựng Hải Phát - Chuyên xây dựng công trình với hơn 6 năm kinh nghiệm"
+      "title": "Giới thiệu - TIMI VN | Công Nghệ & Đầu Tư",
+      "description": "Giới thiệu Công ty TNHH Đầu tư và Công nghệ TIMI - Bán lẻ mỹ phẩm, thiết bị y tế, sản phẩm vệ sinh"
     },
     "services": {
-      "title": "Dịch Vụ - HAI PHAT IDC | Xây Dựng Công Trình",
-      "description": "Dịch vụ xây dựng của HAI PHAT IDC: Xây dựng công trình dân dụng, công nghiệp, giao thông. Chất lượng cao, uy tín"
+      "title": "Dịch Vụ - TIMI VN | Đầu Tư & Công Nghệ",
+      "description": "Dịch vụ của TIMI VN: Đầu tư, công nghệ, bán lẻ nước hoa, mỹ phẩm, thiết bị y tế, sản phẩm vệ sinh"
     },
     "contact": {
-      "title": "Liên Hệ - HAI PHAT IDC | Tư Vấn Xây Dựng",
-      "description": "Liên hệ với HAI PHAT IDC - Chuyên xây dựng công trình. Địa chỉ: Thôn 3, Xã Vạn Phúc, Huyện Thanh Trì, Hà Nội. Điện thoại: 0945 838 333"
+      "title": "Liên Hệ - TIMI VN | Tư Vấn",
+      "description": "Liên hệ TIMI VN - Số 17 ngõ 36 Lê Thanh Nghị, Bách Khoa, Hai Bà Trưng, Hà Nội. Điện thoại: 0357 256 299"
     },
     "policies": {
-      "title": "Chính Sách - HAI PHAT IDC | Bảo Hành - Giao Hàng - Đổi Trả",
-      "description": "Chính sách bảo hành, giao hàng và đổi trả của HAI PHAT IDC. Cam kết chất lượng công trình và dịch vụ tốt nhất cho khách hàng"
+      "title": "Chính Sách - TIMI VN | Bảo Hành - Giao Hàng - Đổi Trả",
+      "description": "Chính sách bảo hành, giao hàng và đổi trả của TIMI VN. Cam kết chất lượng sản phẩm và dịch vụ tốt nhất"
     },
     "privacy": {
-      "title": "Chính Sách Bảo Mật - HAI PHAT IDC",
-      "description": "Chính sách bảo mật của Công ty Cổ phần Đầu tư Phát triển và Xây dựng Hải Phát - Cam kết bảo vệ thông tin khách hàng"
+      "title": "Chính Sách Bảo Mật - TIMI VN",
+      "description": "Chính sách bảo mật của Công ty TNHH Đầu tư và Công nghệ TIMI - Bảo vệ thông tin khách hàng"
     }
   },
   "common": {
-    "logo": "HAI PHAT IDC",
-    "tagline": "Chất lượng - Uy tín - Chuyên nghiệp",
-    "phone": "0945 838 333",
+    "logo": "TIMI VN",
+    "tagline": "Công Nghệ - Đầu Tư - Chất Lượng",
+    "phone": "0357 256 299",
     "contactNow": "Liên hệ ngay",
     "nav": {
       "home": "Trang chủ",
       "about": "Giới thiệu",
       "services": "Dịch vụ",
       "process": "Quy trình",
-      "portfolio": "Dự án",
+      "portfolio": "Sản phẩm",
       "news": "Tin tức",
       "policies": "Chính sách",
-      "contact": "Liên hệ"
+      "contact": "Liên hệ",
+      "menu": "Mở menu"
     },
     "footer": {
-      "companyDesc": "Công ty Cổ phần Đầu tư Phát triển và Xây dựng Hải Phát - Chuyên xây dựng công trình dân dụng, công nghiệp, giao thông và hạ tầng kỹ thuật",
-      "address": "Thôn 3, Xã Vạn Phúc, Huyện Thanh Trì, Thành phố Hà Nội, Việt Nam",
-      "email": "contact@haiphatidc.store",
+      "companyName": "CÔNG TY TNHH ĐẦU TƯ VÀ CÔNG NGHỆ TIMI",
+      "companyDesc": "Công ty TNHH Đầu tư và Công nghệ TIMI - Bán lẻ nước hoa, mỹ phẩm, thiết bị y tế và sản phẩm vệ sinh tại cửa hàng chuyên doanh",
+      "addressLabel": "Địa chỉ",
+      "address": "Số 17 ngõ 36 Lê Thanh Nghị, Phường Bách Khoa, Quận Hai Bà Trưng, Hà Nội",
+      "email": "contact@timi-invest.store",
       "services": "Dịch vụ",
       "info": "Thông tin",
       "support": "Hỗ trợ",
-      "importExport": "Xây dựng công trình dân dụng",
-      "furniture": "Xây dựng công trình công nghiệp",
-      "trading": "Xây dựng công trình giao thông",
-      "consulting": "Xây dựng hạ tầng kỹ thuật",
+      "importExport": "Nước hoa & Mỹ phẩm",
+      "furniture": "Thiết bị y tế",
+      "trading": "Sản phẩm vệ sinh",
+      "consulting": "Đầu tư & Công nghệ",
       "warrantyPolicy": "Chính sách bảo hành",
       "deliveryPolicy": "Chính sách giao hàng",
       "returnPolicy": "Chính sách đổi trả",
       "companyInfo": "Thông tin doanh nghiệp",
-      "copyright": "2024 Công ty Cổ phần Đầu tư Phát triển và Xây dựng Hải Phát. MST: 0108441190"
+      "copyright": "2025 Công ty TNHH Đầu tư và Công nghệ TIMI. MST: 0110641831"
     },
     "breadcrumb": {
       "home": "Trang chủ"
@@ -63,98 +66,146 @@
   },
   "index": {
     "hero": {
-      "title": "Chuyên Gia Xây Dựng Công Trình",
-      "subtitle": "Dịch vụ xây dựng chuyên nghiệp, công trình dân dụng, công nghiệp, giao thông và hạ tầng kỹ thuật với tiêu chuẩn quốc tế",
+      "title": "Đầu Tư & Công Nghệ — Phục Vụ Mọi Nhu Cầu Của Bạn",
+      "subtitle": "TIMI VN chuyên bán lẻ nước hoa, mỹ phẩm, thiết bị y tế và sản phẩm vệ sinh. Đối tác tin cậy trong lĩnh vực công nghệ và đầu tư",
       "viewServices": "Xem dịch vụ",
-      "getQuote": "Liên hệ ngay"
+      "getQuote": "Liên hệ ngay",
+      "expertStat": "30+ Chuyên gia tư vấn"
+    },
+    "advisory": {
+      "card1": {
+        "title": "Đầu Tư",
+        "desc": "Giải pháp đầu tư chuyên nghiệp, tư vấn và hỗ trợ phát triển bền vững",
+        "exploreMore": "Chi tiết →"
+      },
+      "card2": {
+        "title": "Công Nghệ",
+        "desc": "Ứng dụng công nghệ trong kinh doanh bán lẻ và quản lý chuỗi cung ứng",
+        "exploreMore": "Chi tiết →"
+      },
+      "card3": {
+        "title": "Bán Lẻ Cao Cấp",
+        "desc": "Nước hoa, mỹ phẩm, thiết bị y tế và sản phẩm vệ sinh tại cửa hàng chuyên doanh",
+        "exploreMore": "Chi tiết →"
+      }
+    },
+    "about": {
+      "label": "Về chúng tôi",
+      "title": "Về TIMI VN",
+      "subtitle": "Công ty TNHH Đầu tư và Công nghệ TIMI hoạt động trong lĩnh vực bán lẻ tại cửa hàng chuyên doanh",
+      "desc": "Chúng tôi cung cấp nước hoa, mỹ phẩm, thiết bị y tế và sản phẩm vệ sinh chất lượng cao, phục vụ khách hàng với tâm huyết và chuyên nghiệp.",
+      "statYears": "5+ Năm",
+      "statClients": "100+ Khách hàng",
+      "cta": "Về công ty"
     },
     "services": {
+      "label": "Dịch vụ",
       "title": "Dịch Vụ Chính",
-      "subtitle": "Chúng tôi cung cấp đầy đủ các giải pháp xây dựng công trình",
+      "subtitle": "Giải pháp đầu tư, công nghệ và bán lẻ chuyên nghiệp",
       "import": {
-        "title": "Xây Dựng Công Trình Dân Dụng",
-        "desc": "Xây dựng nhà ở, chung cư, trường học, bệnh viện và các công trình dân dụng khác",
+        "title": "Nước Hoa & Mỹ Phẩm",
+        "desc": "Bán lẻ nước hoa và mỹ phẩm tại cửa hàng chuyên doanh, nguồn gốc rõ ràng, chất lượng đảm bảo",
         "detail": "Chi tiết →"
       },
       "furniture": {
-        "title": "Xây Dựng Công Trình Công Nghiệp",
-        "desc": "Xây dựng nhà xưởng, nhà máy, kho bãi và các công trình công nghiệp chất lượng cao",
+        "title": "Thiết Bị Y Tế",
+        "desc": "Bán lẻ thiết bị y tế, dụng cụ chăm sóc sức khỏe tại cửa hàng chuyên doanh",
         "detail": "Chi tiết →"
       },
       "trading": {
-        "title": "Xây Dựng Công Trình Giao Thông",
-        "desc": "Xây dựng đường bộ, cầu, hầm và các công trình giao thông hiện đại",
+        "title": "Sản Phẩm Vệ Sinh",
+        "desc": "Bán lẻ sản phẩm vệ sinh cá nhân và gia đình tại cửa hàng chuyên doanh",
         "detail": "Chi tiết →"
       },
       "consulting": {
-        "title": "Xây Dựng Hạ Tầng Kỹ Thuật",
-        "desc": "Xây dựng hệ thống cấp thoát nước, điện, viễn thông và hạ tầng kỹ thuật",
+        "title": "Đầu Tư & Công Nghệ",
+        "desc": "Hoạt động đầu tư và ứng dụng công nghệ trong kinh doanh bán lẻ",
         "detail": "Chi tiết →"
       }
     },
+    "products": {
+      "title": "Sản Phẩm",
+      "subtitle": "Các nhóm sản phẩm chính của TIMI VN",
+      "perfumes": {
+        "title": "Nước Hoa",
+        "desc": "Bán lẻ nước hoa tại cửa hàng chuyên doanh"
+      },
+      "cosmetics": {
+        "title": "Mỹ Phẩm",
+        "desc": "Mỹ phẩm chính hãng, đa dạng chủng loại"
+      },
+      "medical": {
+        "title": "Thiết Bị Y Tế",
+        "desc": "Thiết bị y tế, dụng cụ chăm sóc sức khỏe"
+      },
+      "hygiene": {
+        "title": "Sản Phẩm Vệ Sinh",
+        "desc": "Sản phẩm vệ sinh cá nhân và gia đình"
+      }
+    },
     "whyChoose": {
-      "title": "Tại Sao Chọn HAI PHAT IDC?",
+      "title": "Tại Sao Chọn TIMI VN?",
       "exp": {
-        "title": "Kinh Nghiệm Chuyên Sâu",
-        "desc": "Hơn 6 năm kinh nghiệm trong lĩnh vực xây dựng, đã hoàn thành nhiều dự án lớn nhỏ"
+        "title": "Chuyên Nghiệp",
+        "desc": "Đội ngũ giàu kinh nghiệm trong lĩnh vực bán lẻ mỹ phẩm, thiết bị y tế và sản phẩm vệ sinh"
       },
       "quality": {
         "title": "Chất Lượng Đảm Bảo",
-        "desc": "Công trình xây dựng chất lượng cao, đảm bảo tiêu chuẩn kỹ thuật, độ bền và an toàn"
+        "desc": "Sản phẩm chính hãng, nguồn gốc rõ ràng, đảm bảo an toàn và chất lượng"
       },
       "price": {
         "title": "Giá Cả Cạnh Tranh",
-        "desc": "Giá thành hợp lý, báo giá minh bạch, không phát sinh chi phí ẩn"
+        "desc": "Giá thành hợp lý, minh bạch, không phát sinh chi phí ẩn"
       },
       "delivery": {
         "title": "Giao Hàng Đúng Hẹn",
-        "desc": "Cam kết giao hàng đúng thời gian, đảm bảo tiến độ vận chuyển cho khách hàng"
+        "desc": "Cam kết giao hàng đúng thời gian, đảm bảo tiến độ cho khách hàng"
       },
       "support": {
         "title": "Hỗ Trợ Tận Tâm",
-        "desc": "Đội ngũ tư vấn chuyên nghiệp, hỗ trợ thủ tục xuất nhập khẩu và tư vấn miễn phí"
+        "desc": "Tư vấn chuyên nghiệp, hỗ trợ khách hàng trước và sau bán hàng"
       },
       "warranty": {
-        "title": "Dịch Vụ Hậu Mãi",
-        "desc": "Hỗ trợ khách hàng sau bán hàng, giải quyết các vấn đề phát sinh một cách nhanh chóng"
+        "title": "Chính Sách Hậu Mãi",
+        "desc": "Bảo hành và đổi trả theo quy định, giải quyết nhanh chóng mọi vấn đề phát sinh"
       }
     },
     "process": {
       "title": "Quy Trình Làm Việc",
       "consult": {
-        "title": "Tư Vấn & Báo Giá",
-        "desc": "Tiếp nhận yêu cầu, tư vấn và báo giá chi tiết trong 24h"
+        "title": "Tư Vấn",
+        "desc": "Tiếp nhận yêu cầu, tư vấn sản phẩm phù hợp"
       },
       "design": {
-        "title": "Thiết Kế Mẫu",
-        "desc": "Thiết kế mẫu theo yêu cầu, chỉnh sửa đến khi khách hàng hài lòng"
+        "title": "Chọn Sản Phẩm",
+        "desc": "Khách hàng chọn sản phẩm theo nhu cầu"
       },
       "produce": {
-        "title": "Thực Hiện",
-        "desc": "Xử lý thủ tục hải quan, vận chuyển và kiểm tra chất lượng hàng hóa"
+        "title": "Xác Nhận Đơn",
+        "desc": "Xác nhận đơn hàng và chuẩn bị giao hàng"
       },
       "deliver": {
         "title": "Giao Hàng",
-        "desc": "Giao hàng tận nơi, kiểm tra và nghiệm thu sản phẩm"
+        "desc": "Giao hàng tận nơi, kiểm tra và nghiệm thu"
       },
       "viewDetail": "Xem chi tiết quy trình"
     },
     "stats": {
-      "projects": "Dự án hoàn thành",
-      "clients": "Đối tác tin tưởng",
+      "projects": "Sản phẩm đa dạng",
+      "clients": "Khách hàng tin tưởng",
       "satisfied": "Khách hàng hài lòng",
       "experience": "Năm kinh nghiệm"
     },
-      "cta": {
-      "title": "Bắt Đầu Dự Án Xây Dựng Của Bạn Ngay Hôm Nay",
-      "subtitle": "Liên hệ với chúng tôi để nhận tư vấn miễn phí về dịch vụ xây dựng",
+    "cta": {
+      "title": "Kết Nối Với TIMI VN Ngay Hôm Nay",
+      "subtitle": "Liên hệ để được tư vấn và hỗ trợ về sản phẩm",
       "contact": "Liên hệ ngay",
-      "call": "Gọi: 0945 838 333"
+      "call": "Gọi: 0357 256 299"
     }
   },
   "contact": {
     "pageTitle": "Liên Hệ Với Chúng Tôi",
-    "pageSubtitle": "Chúng tôi sẵn sàng tư vấn và hỗ trợ bạn về dịch vụ xuất nhập khẩu",
+    "pageSubtitle": "Chúng tôi sẵn sàng tư vấn và hỗ trợ bạn về sản phẩm và dịch vụ",
     "breadcrumb": "Liên hệ",
     "contactInfo": {
       "title": "Thông Tin Liên Hệ",
@@ -181,10 +232,10 @@
       "companyPlaceholder": "Nhập tên công ty/tổ chức",
       "service": "Loại dịch vụ cần tư vấn",
       "serviceSelect": "-- Chọn loại dịch vụ --",
-      "serviceImport": "Dịch vụ xuất nhập khẩu",
-      "serviceFurniture": "Bán buôn nội thất",
-      "serviceTrading": "Dịch vụ thương mại",
-      "serviceConsulting": "Tư vấn kinh doanh",
+      "serviceImport": "Nước hoa & Mỹ phẩm",
+      "serviceFurniture": "Thiết bị y tế",
+      "serviceTrading": "Sản phẩm vệ sinh",
+      "serviceConsulting": "Đầu tư & Công nghệ",
       "serviceOther": "Khác",
       "quantity": "Số lượng dự kiến",
       "quantityPlaceholder": "Nhập số lượng (sản phẩm/container)",
@@ -195,15 +246,15 @@
     "features": {
       "consult": {
         "title": "📞 Tư Vấn Miễn Phí",
-        "desc": "Chúng tôi tư vấn miễn phí về dịch vụ xuất nhập khẩu, thủ tục hải quan và giá thành. Liên hệ qua điện thoại hoặc email."
+        "desc": "Chúng tôi tư vấn miễn phí về sản phẩm nước hoa, mỹ phẩm, thiết bị y tế và sản phẩm vệ sinh. Liên hệ qua điện thoại hoặc email."
       },
       "quote": {
         "title": "💰 Báo Giá Nhanh",
-        "desc": "Nhận báo giá chi tiết trong vòng 24 giờ sau khi gửi yêu cầu. Giá cả minh bạch, không phát sinh chi phí ẩn."
+        "desc": "Nhận báo giá chi tiết trong vòng 24 giờ. Giá cả minh bạch, không phát sinh chi phí ẩn."
       },
       "delivery": {
-        "title": "🚚 Vận Chuyển Quốc Tế",
-        "desc": "Dịch vụ vận chuyển quốc tế chuyên nghiệp. Giao hàng đúng tiến độ, đảm bảo chất lượng."
+        "title": "🚚 Giao Hàng Chuyên Nghiệp",
+        "desc": "Giao hàng đúng tiến độ, đảm bảo chất lượng sản phẩm."
       },
       "warranty": {
         "title": "🛡️ Dịch Vụ Hậu Mãi",
@@ -219,84 +270,82 @@
   },
   "about": {
     "pageTitle": "Giới Thiệu Công Ty",
-    "pageSubtitle": "Công ty Cổ phần Đầu tư Phát triển và Xây dựng Hải Phát - Chuyên gia xây dựng công trình",
+    "pageSubtitle": "Công ty TNHH Đầu tư và Công nghệ TIMI - Bán lẻ nước hoa, mỹ phẩm, thiết bị y tế và sản phẩm vệ sinh",
     "breadcrumb": "Giới thiệu",
     "intro": {
-      "title": "Về Công ty Cổ phần Đầu tư Phát triển và Xây dựng Hải Phát",
-      "desc": "Công ty Cổ phần Đầu tư Phát triển và Xây dựng Hải Phát được thành lập vào ngày 24 tháng 9 năm 2018, với mục tiêu trở thành đơn vị hàng đầu trong lĩnh vực xây dựng công trình tại Việt Nam. Với hơn 6 năm kinh nghiệm trong ngành xây dựng, chúng tôi tự hào là đối tác tin cậy của nhiều doanh nghiệp và khách hàng trong và ngoài nước."
+      "title": "Về Công ty TNHH Đầu tư và Công nghệ TIMI",
+      "desc": "Công ty TNHH Đầu tư và Công nghệ TIMI hoạt động trong lĩnh vực bán lẻ nước hoa, mỹ phẩm, thiết bị y tế và sản phẩm vệ sinh tại cửa hàng chuyên doanh. Chúng tôi cam kết mang đến sản phẩm chất lượng cao, nguồn gốc rõ ràng và dịch vụ chuyên nghiệp cho khách hàng."
     },
     "mission": {
       "title": "Sứ Mệnh & Tầm Nhìn",
       "missionTitle": "Sứ Mệnh",
-      "missionDesc": "Chúng tôi cam kết mang đến dịch vụ xây dựng chuyên nghiệp và công trình chất lượng cao, đáp ứng mọi yêu cầu của khách hàng. Mỗi dự án đều thể hiện sự tâm huyết, chuyên nghiệp và trách nhiệm của đội ngũ HAI PHAT IDC.",
+      "missionDesc": "Chúng tôi cam kết cung cấp sản phẩm chất lượng cao và dịch vụ chuyên nghiệp trong lĩnh vực bán lẻ mỹ phẩm, thiết bị y tế và sản phẩm vệ sinh. Mỗi sản phẩm đều thể hiện sự tâm huyết và trách nhiệm của đội ngũ TIMI VN.",
       "visionTitle": "Tầm Nhìn",
-      "visionDesc": "Trở thành công ty xây dựng hàng đầu tại Việt Nam, được khách hàng tin tưởng lựa chọn nhờ chất lượng công trình vượt trội, chuyên nghiệp và giá cả cạnh tranh."
+      "visionDesc": "Trở thành đơn vị bán lẻ uy tín trong lĩnh vực mỹ phẩm, thiết bị y tế và sản phẩm vệ sinh, được khách hàng tin tưởng nhờ chất lượng vượt trội và dịch vụ chuyên nghiệp."
     },
     "activity": {
       "title": "Lĩnh Vực Hoạt Động",
-      "industry": "Xây dựng công trình kỹ thuật dân dụng khác",
+      "industry": "Bán lẻ nước hoa, mỹ phẩm, thiết bị y tế và sản phẩm vệ sinh tại cửa hàng chuyên doanh",
       "mainAreas": "Các lĩnh vực chính:",
       "areas": [
-        "Xây dựng công trình dân dụng: Nhà ở, chung cư, trường học, bệnh viện",
-        "Xây dựng công trình công nghiệp: Nhà xưởng, nhà máy, kho bãi",
-        "Xây dựng công trình giao thông: Đường bộ, cầu, hầm",
-        "Xây dựng công trình nông nghiệp và phát triển nông thôn",
-        "Xây dựng hạ tầng kỹ thuật: Hệ thống cấp thoát nước, điện, viễn thông",
-        "Xây dựng công trình quốc phòng, an ninh"
+        "Bán lẻ nước hoa tại cửa hàng chuyên doanh",
+        "Bán lẻ mỹ phẩm tại cửa hàng chuyên doanh",
+        "Bán lẻ thiết bị y tế tại cửa hàng chuyên doanh",
+        "Bán lẻ sản phẩm vệ sinh tại cửa hàng chuyên doanh",
+        "Hoạt động đầu tư và công nghệ liên quan"
       ]
     },
     "capacity": {
       "title": "Năng Lực Kinh Doanh",
       "network": {
-        "title": "Mạng Lưới Đối Tác",
-        "desc": "Chúng tôi có mạng lưới đối tác rộng khắp trong và ngoài nước:",
+        "title": "Mạng Lưới Cung Ứng",
+        "desc": "Chúng tôi hợp tác với các nhà cung cấp uy tín:",
         "items": [
-          "Đối tác thiết kế: Các công ty thiết kế kiến trúc uy tín trong và ngoài nước",
-          "Nhà cung cấp vật liệu: Các nhà cung cấp vật liệu xây dựng chất lượng cao",
-          "Đối tác thi công: Các đội ngũ thi công chuyên nghiệp, giàu kinh nghiệm",
-          "Đối tác giám sát: Các đơn vị giám sát và quản lý dự án uy tín"
+          "Nhà cung cấp nước hoa, mỹ phẩm chính hãng",
+          "Nhà cung cấp thiết bị y tế đạt chuẩn",
+          "Nhà cung cấp sản phẩm vệ sinh chất lượng",
+          "Đối tác logistics đảm bảo giao hàng đúng hạn"
         ]
       },
       "volume": {
-        "title": "Năng Lực Thi Công",
-        "desc": "Với kinh nghiệm và đội ngũ chuyên nghiệp, năng lực thi công của chúng tôi:",
+        "title": "Phạm Vi Hoạt Động",
+        "desc": "Với định hướng công nghệ và đầu tư:",
         "items": [
-          "Công trình dân dụng: Hàng chục dự án/năm",
-          "Công trình công nghiệp: Nhiều nhà xưởng, nhà máy đã hoàn thành",
-          "Công trình giao thông: Đường bộ, cầu với tổng chiều dài hàng chục km",
-          "Hạ tầng kỹ thuật: Nhiều dự án hệ thống cấp thoát nước, điện"
+          "Bán lẻ tại cửa hàng chuyên doanh",
+          "Đa dạng chủng loại sản phẩm",
+          "Phục vụ khách hàng cá nhân và tổ chức",
+          "Mở rộng kênh bán hàng và dịch vụ"
         ]
       },
       "services": {
         "title": "Dịch Vụ & Chất Lượng",
-        "desc": "Chúng tôi cung cấp các dịch vụ chuyên nghiệp:",
+        "desc": "Chúng tôi cam kết:",
         "items": [
-          "Thiết kế và thi công: Từ thiết kế đến hoàn thiện công trình",
-          "Quản lý dự án: Quản lý toàn bộ quá trình thi công, đảm bảo tiến độ",
-          "Tư vấn kỹ thuật: Hỗ trợ về giải pháp kỹ thuật, vật liệu xây dựng",
-          "Kiểm tra chất lượng: Đảm bảo công trình đúng tiêu chuẩn, an toàn"
+          "Sản phẩm chính hãng, nguồn gốc rõ ràng",
+          "Tư vấn chuyên nghiệp, tận tâm",
+          "Giao hàng đúng hẹn, đóng gói cẩn thận",
+          "Bảo hành và đổi trả theo quy định"
         ]
       }
     },
     "team": {
       "title": "Đội Ngũ Nhân Sự",
-      "desc": "HAI PHAT IDC tự hào sở hữu đội ngũ nhân viên chuyên nghiệp và giàu kinh nghiệm:",
-        "items": [
-          "Đội ngũ kỹ sư: Am hiểu kỹ thuật xây dựng, giàu kinh nghiệm",
-          "Nhân viên thiết kế: Thiết kế công trình chuyên nghiệp, sáng tạo",
-          "Nhân viên quản lý dự án: Quản lý tiến độ và chất lượng hiệu quả",
-          "Nhân viên thi công: Đội ngũ thợ lành nghề, chuyên nghiệp",
-          "Nhân viên QC: Kiểm tra chất lượng công trình nghiêm ngặt"
-        ]
-      },
-      "certificates": {
-        "title": "Chứng Nhận & Giấy Phép",
-        "items": [
-          "Giấy chứng nhận đăng ký kinh doanh: MST 0108441190",
-          "Giấy phép hoạt động xây dựng",
-          "Chứng nhận đối tác uy tín từ các chủ đầu tư"
-        ]
-      },
+      "desc": "TIMI VN tự hào có đội ngũ chuyên nghiệp:",
+      "items": [
+        "Nhân viên tư vấn: Am hiểu sản phẩm, nhiệt tình",
+        "Nhân viên kinh doanh: Kết nối khách hàng và cung cấp giải pháp",
+        "Nhân viên kho và giao hàng: Đảm bảo giao hàng đúng tiến độ",
+        "Bộ phận chăm sóc khách hàng: Hỗ trợ và giải đáp thắc mắc"
+      ]
+    },
+    "certificates": {
+      "title": "Chứng Nhận & Giấy Phép",
+      "items": [
+        "Giấy chứng nhận đăng ký kinh doanh: MST 0110641831",
+        "Hoạt động bán lẻ tại cửa hàng chuyên doanh",
+        "Tuân thủ quy định về kinh doanh mỹ phẩm, thiết bị y tế"
+      ]
+    },
       "contact": {
         "title": "Địa Chỉ & Liên Hệ",
         "headquarters": "Trụ sở chính:",
@@ -307,60 +356,60 @@
       }
   },
   "services": {
-    "pageTitle": "Dịch Vụ Xuất Nhập Khẩu & Thương Mại",
-    "pageSubtitle": "Chuyên nghiệp - Chất lượng - Uy tín",
+    "pageTitle": "Dịch Vụ - Đầu Tư & Công Nghệ",
+    "pageSubtitle": "Bán lẻ nước hoa, mỹ phẩm, thiết bị y tế và sản phẩm vệ sinh",
     "breadcrumb": "Dịch vụ",
     "import": {
-      "title": "🌍 Dịch Vụ Xuất Nhập Khẩu",
-      "desc": "Dịch vụ xuất nhập khẩu chuyên nghiệp, hỗ trợ thủ tục hải quan, vận chuyển quốc tế. Chúng tôi cung cấp giải pháp xuất nhập khẩu toàn diện với kinh nghiệm và mạng lưới đối tác rộng khắp.",
-      "servicesTitle": "Dịch Vụ",
+      "title": "🌿 Nước Hoa & Mỹ Phẩm",
+      "desc": "Bán lẻ nước hoa và mỹ phẩm tại cửa hàng chuyên doanh. Sản phẩm chính hãng, nguồn gốc rõ ràng, đa dạng chủng loại.",
+      "servicesTitle": "Sản Phẩm & Dịch Vụ",
       "services": [
         {
-          "title": "Thủ Tục Hải Quan",
-          "desc": "Hỗ trợ hoàn thiện thủ tục hải quan, khai báo, kiểm tra và thông quan hàng hóa nhanh chóng, chính xác."
+          "title": "Nước Hoa",
+          "desc": "Bán lẻ nước hoa chính hãng tại cửa hàng chuyên doanh, đa dạng thương hiệu."
         },
         {
-          "title": "Vận Chuyển Quốc Tế",
-          "desc": "Dịch vụ vận chuyển quốc tế bằng đường biển, đường hàng không, đường bộ với giá cả cạnh tranh."
+          "title": "Mỹ Phẩm Chăm Sóc Da",
+          "desc": "Mỹ phẩm chăm sóc da mặt, body, nguồn gốc rõ ràng, an toàn."
         },
         {
-          "title": "Chứng Từ Xuất Nhập Khẩu",
-          "desc": "Hỗ trợ làm các loại chứng từ: Invoice, Packing List, C/O, B/L, AWB theo yêu cầu."
+          "title": "Mỹ Phẩm Trang Điểm",
+          "desc": "Đa dạng mỹ phẩm trang điểm, phù hợp mọi nhu cầu."
         },
         {
-          "title": "Tư Vấn Pháp Lý",
-          "desc": "Tư vấn về quy định xuất nhập khẩu, thuế, phí và các vấn đề pháp lý liên quan."
+          "title": "Tư Vấn Chọn Sản Phẩm",
+          "desc": "Đội ngũ tư vấn giúp khách hàng chọn sản phẩm phù hợp."
         }
       ],
       "featuresTitle": "Đặc Điểm",
       "features": [
-        "Đội ngũ nhân viên giàu kinh nghiệm, am hiểu quy định xuất nhập khẩu",
-        "Mạng lưới đối tác rộng khắp, giá cả cạnh tranh",
-        "Xử lý nhanh chóng, đúng tiến độ cam kết",
-        "Hỗ trợ 24/7, giải quyết vấn đề kịp thời",
-        "Minh bạch về chi phí, không phát sinh phí ẩn"
+        "Sản phẩm chính hãng, nguồn gốc rõ ràng",
+        "Đa dạng thương hiệu, giá cả cạnh tranh",
+        "Tư vấn chuyên nghiệp, tận tâm",
+        "Giao hàng đúng hẹn, đóng gói cẩn thận",
+        "Chính sách bảo hành, đổi trả rõ ràng"
       ]
     },
     "furniture": {
-      "title": "🪑 Bán Buôn Nội Thất",
-      "desc": "Bán buôn giường, tủ, bàn ghế và đồ dùng nội thất chất lượng cao, giá cả cạnh tranh. Chúng tôi cung cấp đa dạng sản phẩm nội thất phù hợp với mọi nhu cầu.",
+      "title": "🏥 Thiết Bị Y Tế",
+      "desc": "Bán lẻ thiết bị y tế và dụng cụ chăm sóc sức khỏe tại cửa hàng chuyên doanh. Sản phẩm đạt chuẩn, phục vụ nhu cầu chăm sóc sức khỏe.",
       "productsTitle": "Sản Phẩm",
       "products": [
         {
-          "title": "Giường Ngủ",
-          "desc": "Giường ngủ đa dạng kiểu dáng, chất liệu gỗ, kim loại chất lượng cao, phù hợp mọi không gian."
+          "title": "Thiết Bị Đo Lường",
+          "desc": "Máy đo huyết áp, nhiệt kế, máy đo đường huyết và các thiết bị đo lường sức khỏe."
         },
         {
-          "title": "Tủ Quần Áo",
-          "desc": "Tủ quần áo đa dạng kích thước, thiết kế hiện đại, tiện lợi, chất lượng bền đẹp."
+          "title": "Dụng Cụ Y Tế",
+          "desc": "Dụng cụ chăm sóc vết thương, hỗ trợ điều trị tại nhà."
         },
         {
-          "title": "Bàn Ghế",
-          "desc": "Bàn ghế văn phòng, bàn ghế ăn, bàn ghế phòng khách với nhiều mẫu mã đẹp."
+          "title": "Thiết Bị Hỗ Trợ",
+          "desc": "Thiết bị hỗ trợ vận động, chăm sóc người cao tuổi."
         },
         {
-          "title": "Đồ Dùng Nội Thất Khác",
-          "desc": "Kệ, tủ kính, bàn trang điểm và các đồ dùng nội thất khác theo yêu cầu."
+          "title": "Sản Phẩm Chăm Sóc Sức Khỏe",
+          "desc": "Các sản phẩm chăm sóc sức khỏe cá nhân và gia đình."
         }
       ],
       "featuresTitle": "Đặc Điểm",
@@ -373,39 +422,39 @@
       ]
     },
     "trading": {
-      "title": "📦 Dịch Vụ Thương Mại",
-      "desc": "Dịch vụ thương mại toàn diện, hỗ trợ tìm nguồn hàng, đàm phán và ký kết hợp đồng. Chúng tôi kết nối khách hàng với các nhà cung cấp uy tín trong và ngoài nước.",
-      "servicesTitle": "Dịch Vụ",
+      "title": "🧴 Sản Phẩm Vệ Sinh",
+      "desc": "Bán lẻ sản phẩm vệ sinh cá nhân và gia đình tại cửa hàng chuyên doanh. Đa dạng chủng loại, chất lượng đảm bảo.",
+      "servicesTitle": "Sản Phẩm",
       "services": [
         {
-          "title": "Tìm Nguồn Hàng",
-          "desc": "Hỗ trợ tìm kiếm nhà cung cấp uy tín, phù hợp với yêu cầu và ngân sách của khách hàng."
+          "title": "Vệ Sinh Cá Nhân",
+          "desc": "Sản phẩm vệ sinh cá nhân hàng ngày, an toàn, chất lượng."
         },
         {
-          "title": "Đàm Phán Hợp Đồng",
-          "desc": "Hỗ trợ đàm phán giá cả, điều khoản hợp đồng để đạt được thỏa thuận tốt nhất."
+          "title": "Vệ Sinh Gia Đình",
+          "desc": "Sản phẩm vệ sinh nhà cửa, đa dạng, hiệu quả."
         },
         {
-          "title": "Kiểm Tra Chất Lượng",
-          "desc": "Kiểm tra chất lượng hàng hóa trước khi giao, đảm bảo đúng tiêu chuẩn."
+          "title": "Chăm Sóc Sức Khỏe",
+          "desc": "Sản phẩm hỗ trợ vệ sinh và chăm sóc sức khỏe."
         },
         {
-          "title": "Quản Lý Đơn Hàng",
-          "desc": "Theo dõi và quản lý đơn hàng từ khi đặt hàng đến khi giao hàng."
+          "title": "Tư Vấn Sử Dụng",
+          "desc": "Hướng dẫn sử dụng đúng cách, an toàn."
         }
       ],
       "featuresTitle": "Đặc Điểm",
       "features": [
-        "Mạng lưới đối tác rộng khắp trong và ngoài nước",
-        "Kinh nghiệm đàm phán, đạt được giá tốt nhất",
-        "Đảm bảo chất lượng hàng hóa theo yêu cầu",
-        "Hỗ trợ toàn diện từ tìm nguồn đến giao hàng",
-        "Minh bạch, rõ ràng trong mọi giao dịch"
+        "Sản phẩm đa dạng, chất lượng đảm bảo",
+        "Giá cả cạnh tranh, minh bạch",
+        "Giao hàng nhanh chóng, đúng hẹn",
+        "Tư vấn chuyên nghiệp",
+        "Chính sách đổi trả rõ ràng"
       ]
     },
     "consulting": {
-      "title": "🤝 Tư Vấn Kinh Doanh",
-      "desc": "Tư vấn về thủ tục xuất nhập khẩu, quy định pháp lý và chiến lược thương mại quốc tế. Chúng tôi hỗ trợ khách hàng hiểu rõ và tuân thủ các quy định pháp luật.",
+      "title": "💼 Đầu Tư & Công Nghệ",
+      "desc": "Hoạt động đầu tư và ứng dụng công nghệ trong kinh doanh bán lẻ. TIMI VN kết hợp công nghệ để nâng cao trải nghiệm khách hàng.",
       "servicesTitle": "Dịch Vụ Tư Vấn",
       "services": [
         {
@@ -434,10 +483,10 @@
         "Hỗ trợ lâu dài, đồng hành cùng khách hàng"
       ]
     },
-    "ctaTitle": "Bạn Cần Tư Vấn Về Dịch Vụ?",
-    "ctaDesc": "Liên hệ với chúng tôi để nhận báo giá chi tiết và tư vấn miễn phí",
+    "ctaTitle": "Bạn Cần Tư Vấn Về Sản Phẩm?",
+    "ctaDesc": "Liên hệ với chúng tôi để nhận tư vấn và hỗ trợ",
     "ctaContact": "Liên hệ ngay",
-    "ctaCall": "Gọi: 0945 838 333"
+    "ctaCall": "Gọi: 0357 256 299"
   },
   "policies": {
     "pageTitle": "Chính Sách",
@@ -449,14 +498,14 @@
         "title": "I. Chính sách bảo mật dành cho Website",
         "items": [
           "Website không thu thập bất kỳ thông tin cá nhân nào của người dùng.",
-          "Website chỉ cung cấp thông tin về doanh nghiệp CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI VÀ XUẤT NHẬP KHẨU THÀNH MỊCH.",
+          "Website chỉ cung cấp thông tin về doanh nghiệp CÔNG TY TNHH ĐẦU TƯ VÀ CÔNG NGHỆ TIMI.",
           "Website không sử dụng cookie, tracking code hoặc bất kỳ công nghệ theo dõi nào khác."
         ]
       },
       "mobile": {
         "title": "II. Chính sách bảo mật dành cho Ứng dụng di động",
         "items": [
-          "Ứng dụng di động chỉ nhằm giới thiệu về CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI VÀ XUẤT NHẬP KHẨU THÀNH MỊCH và các dịch vụ xuất nhập khẩu, thương mại của công ty.",
+          "Ứng dụng di động chỉ nhằm giới thiệu về CÔNG TY TNHH ĐẦU TƯ VÀ CÔNG NGHỆ TIMI và các sản phẩm, dịch vụ của công ty.",
           "Ứng dụng không thu thập bất kỳ dữ liệu cá nhân nào từ người dùng.",
           "Ứng dụng không yêu cầu người dùng tạo tài khoản hoặc đăng nhập.",
           "Ứng dụng không theo dõi hành vi, hoạt động hoặc vị trí của người dùng.",
@@ -467,7 +516,7 @@
     "warranty": {
       "title": "🛡️ Chính Sách Bảo Hành",
       "timeTitle": "Thời Gian Bảo Hành",
-      "timeDesc": "Công ty TNHH Sản Xuất Thương Mại Và Xuất Nhập Khẩu Thành Mịch cam kết bảo hành chất lượng sản phẩm cho khách hàng với thời gian như sau:",
+      "timeDesc": "Công ty TNHH Đầu tư và Công nghệ TIMI cam kết bảo hành chất lượng sản phẩm cho khách hàng với thời gian như sau:",
       "timeItems": {
         "furniture": "Nội thất: 12 tháng kể từ ngày giao hàng",
         "import": "Hàng hóa nhập khẩu: Theo chính sách bảo hành của nhà sản xuất (tối thiểu 6 tháng)",
@@ -634,7 +683,7 @@
     "ctaTitle": "Bạn Có Câu Hỏi Về Chính Sách?",
     "ctaDesc": "Liên hệ với chúng tôi để được giải đáp thắc mắc",
     "ctaContact": "Liên hệ ngay",
-    "ctaCall": "Gọi: 0945 838 333"
+    "ctaCall": "Gọi: 0357 256 299"
   },
   "process": {
     "pageTitle": "Quy Trình Sản Xuất",
@@ -1135,17 +1184,16 @@
       "title": "Thông Tin Ngành Nghề Kinh Doanh",
       "mainIndustry": {
         "label": "Ngành nghề chính:",
-        "value": "Xây dựng công trình kỹ thuật dân dụng khác"
+        "value": "Bán lẻ nước hoa, mỹ phẩm, thiết bị y tế và sản phẩm vệ sinh tại cửa hàng chuyên doanh"
       },
       "activityAreas": {
         "label": "Lĩnh vực hoạt động:",
         "items": [
-          "Xây dựng công trình dân dụng: Nhà ở, chung cư, trường học, bệnh viện",
-          "Xây dựng công trình công nghiệp: Nhà xưởng, nhà máy, kho bãi",
-          "Xây dựng công trình giao thông: Đường bộ, cầu, hầm",
-          "Xây dựng công trình nông nghiệp và phát triển nông thôn",
-          "Xây dựng hạ tầng kỹ thuật: Hệ thống cấp thoát nước, điện, viễn thông",
-          "Xây dựng công trình quốc phòng, an ninh"
+          "Bán lẻ nước hoa tại cửa hàng chuyên doanh",
+          "Bán lẻ mỹ phẩm tại cửa hàng chuyên doanh",
+          "Bán lẻ thiết bị y tế tại cửa hàng chuyên doanh",
+          "Bán lẻ sản phẩm vệ sinh tại cửa hàng chuyên doanh",
+          "Hoạt động đầu tư và công nghệ"
         ]
       }
     },
@@ -1157,14 +1205,14 @@
       },
       "website": {
         "label": "Website:",
-        "value": "https://haiphatidc.store"
+        "value": "https://timi-invest.store"
       }
     },
     "cta": {
       "title": "Bạn Cần Liên Hệ Với Chúng Tôi?",
       "desc": "Chúng tôi sẵn sàng tư vấn và hỗ trợ bạn",
       "contact": "Liên hệ ngay",
-      "call": "Gọi: 0945 838 333"
+      "call": "Gọi: 0357 256 299"
     }
   },
   "error404": {

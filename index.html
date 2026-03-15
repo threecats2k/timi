@@ -3,33 +3,25 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="theme-color" content="#c41e3a">
+    <meta name="theme-color" content="#1e3a5f">
     <meta name="format-detection" content="telephone=yes">
-    <title>HAI PHAT IDC - Công Ty Đầu Tư Phát Triển Và Xây Dựng Chuyên Nghiệp</title>
-    <meta name="description" content="Công ty Cổ phần Đầu tư Phát triển và Xây dựng Hải Phát - Chuyên xây dựng công trình dân dụng, công nghiệp, giao thông và hạ tầng kỹ thuật">
+    <title>TIMI VN - Công Ty TNHH Đầu Tư Và Công Nghệ TIMI | Mỹ phẩm - Thiết bị y tế</title>
+    <meta name="description" content="Công ty TNHH Đầu tư và Công nghệ TIMI - Bán lẻ nước hoa, mỹ phẩm, thiết bị y tế và sản phẩm vệ sinh tại cửa hàng chuyên doanh">
     
     <!-- Favicon -->
-    <link rel="icon" type="image/svg+xml" href="images/favicon.svg">
-    <link rel="shortcut icon" type="image/svg+xml" href="images/favicon.svg">
-    <link rel="apple-touch-icon" href="images/favicon.svg">
+    <link rel="icon" type="image/svg+xml" href="/images/favicon.svg">
+    <link rel="shortcut icon" type="image/svg+xml" href="/images/favicon.svg">
+    <link rel="apple-touch-icon" href="/images/favicon.svg">
     
     <link rel="stylesheet" href="css/styles.css">
     <script src="js/i18n.js" defer></script>
 </head>
 <body>
-    <!-- Header -->
-    <header class="header">
+    <!-- Navbar -->
+    <header class="navbar-header">
         <div class="container">
-            <div class="header-top">
-                <div class="logo">
-                    <a href="index.html" style="display: inline-block;">
-                        <img src="images/logo.svg" alt="HAI PHAT IDC" style="max-height: 80px; width: auto;">
-                    </a>
-                </div>
-                <div class="header-contact">
-                    <a href="tel:0945838333" class="phone-link">📞 <span data-i18n="common.phone">0945 838 333</span></a>
-                    <a href="contact.html" class="btn btn-primary" data-i18n="common.contactNow">Liên hệ ngay</a>
-                </div>
+            <div class="navbar-logo">
+                <a href="index.html"><img src="/images/logo.svg" alt="TIMI VN"></a>
             </div>
             <nav class="navbar">
                 <ul class="nav-menu">
@@ -39,181 +31,143 @@
                     <li><a href="policies.html" data-i18n="common.nav.policies">Chính sách</a></li>
                     <li><a href="contact.html" data-i18n="common.nav.contact">Liên hệ</a></li>
                 </ul>
-                <button class="mobile-menu-toggle" aria-label="Toggle menu" data-i18n-aria-label="common.nav.menu">☰</button>
             </nav>
+            <div class="nav-cta">
+                <a href="contact.html" class="btn btn-primary" data-i18n="common.contactNow">Liên hệ ngay</a>
+            </div>
+            <button class="mobile-menu-toggle" aria-label="Toggle menu" data-i18n-aria-label="common.nav.menu">☰</button>
         </div>
     </header>
 
-    <!-- Hero Section -->
+    <!-- Hero -->
     <section class="hero">
         <div class="container">
-            <div class="hero-content">
-                <div>
-                    <h1 data-i18n="index.hero.title">Chuyên Gia Xây Dựng Công Trình</h1>
-                    <p class="hero-subtitle" data-i18n="index.hero.subtitle">Dịch vụ xây dựng chuyên nghiệp, công trình dân dụng, công nghiệp, giao thông và hạ tầng kỹ thuật với tiêu chuẩn quốc tế</p>
-                    <div class="hero-buttons">
-                        <a href="services.html" class="btn btn-large btn-primary" data-i18n="index.hero.viewServices">Xem dịch vụ</a>
-                        <a href="contact.html" class="btn btn-large btn-secondary" data-i18n="index.hero.getQuote">Liên hệ ngay</a>
+            <h1 data-i18n="index.hero.title">Đầu Tư & Công Nghệ — Phục Vụ Mọi Nhu Cầu Của Bạn</h1>
+            <p class="hero-subtitle" data-i18n="index.hero.subtitle">TIMI VN chuyên bán lẻ nước hoa, mỹ phẩm, thiết bị y tế và sản phẩm vệ sinh. Đối tác tin cậy trong lĩnh vực công nghệ và đầu tư.</p>
+            <div class="hero-buttons">
+                <a href="services.html" class="btn btn-large btn-primary" data-i18n="index.hero.viewServices">Xem dịch vụ</a>
+                <a href="contact.html" class="btn btn-large btn-secondary" data-i18n="index.hero.getQuote">Liên hệ ngay</a>
+            </div>
+            <p class="hero-stat" data-i18n="index.hero.expertStat">30+ Chuyên gia tư vấn</p>
+        </div>
+    </section>
+
+    <!-- Advisory (3 cards) -->
+    <section class="advisory">
+        <div class="container">
+            <div class="advisory-card">
+                <div class="advisory-number">01</div>
+                <h4 data-i18n="index.advisory.card1.title">Đầu Tư</h4>
+                <p data-i18n="index.advisory.card1.desc">Giải pháp đầu tư chuyên nghiệp, tư vấn và hỗ trợ phát triển bền vững</p>
+                <a href="services.html#consulting" data-i18n="index.advisory.card1.exploreMore">Chi tiết →</a>
+            </div>
+            <div class="advisory-card">
+                <div class="advisory-number">02</div>
+                <h4 data-i18n="index.advisory.card2.title">Công Nghệ</h4>
+                <p data-i18n="index.advisory.card2.desc">Ứng dụng công nghệ trong kinh doanh bán lẻ và quản lý chuỗi cung ứng</p>
+                <a href="services.html#consulting" data-i18n="index.advisory.card2.exploreMore">Chi tiết →</a>
+            </div>
+            <div class="advisory-card">
+                <div class="advisory-number">03</div>
+                <h4 data-i18n="index.advisory.card3.title">Bán Lẻ Cao Cấp</h4>
+                <p data-i18n="index.advisory.card3.desc">Nước hoa, mỹ phẩm, thiết bị y tế và sản phẩm vệ sinh tại cửa hàng chuyên doanh</p>
+                <a href="services.html" data-i18n="index.advisory.card3.exploreMore">Chi tiết →</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- About (split layout) -->
+    <section class="about-section">
+        <div class="container">
+            <div class="about-image">
+                <img src="/images/image.png" alt="" loading="lazy">
+            </div>
+            <div>
+                <p class="about-label" data-i18n="index.about.label">Về chúng tôi</p>
+                <h2 data-i18n="index.about.title">Về TIMI VN</h2>
+                <p class="about-desc" data-i18n="index.about.desc">Chúng tôi cung cấp nước hoa, mỹ phẩm, thiết bị y tế và sản phẩm vệ sinh chất lượng cao, phục vụ khách hàng với tâm huyết và chuyên nghiệp.</p>
+                <ul>
+                    <li data-i18n="index.whyChoose.exp.title">Chuyên Nghiệp</li>
+                    <li data-i18n="index.whyChoose.quality.title">Chất Lượng Đảm Bảo</li>
+                    <li data-i18n="index.whyChoose.support.title">Hỗ Trợ Tận Tâm</li>
+                </ul>
+                <div class="about-stats">
+                    <div class="about-stat">
+                        <h3>5+</h3>
+                        <p data-i18n="index.about.statYears">5+ Năm</p>
+                    </div>
+                    <div class="about-stat">
+                        <h3>100+</h3>
+                        <p data-i18n="index.about.statClients">100+ Khách hàng</p>
                     </div>
                 </div>
-                <div class="hero-visual"></div>
+                <a href="about.html" class="btn btn-primary" data-i18n="index.about.cta">Về công ty</a>
             </div>
         </div>
     </section>
 
-    <!-- Services Overview -->
-    <section class="services-overview section">
+    <!-- Services (4-card grid) -->
+    <section class="services-section">
         <div class="container">
+            <p class="section-label" data-i18n="index.services.label">Dịch vụ</p>
             <h2 class="section-title" data-i18n="index.services.title">Dịch Vụ Chính</h2>
-            <p class="section-subtitle" data-i18n="index.services.subtitle">Chúng tôi cung cấp đầy đủ các giải pháp xây dựng công trình</p>
+            <p class="section-subtitle" data-i18n="index.services.subtitle">Giải pháp đầu tư, công nghệ và bán lẻ chuyên nghiệp</p>
             <div class="services-grid">
                 <div class="service-card">
-                    <div class="service-icon">🌍</div>
-                    <h3 data-i18n="index.services.import.title">Xây Dựng Công Trình Dân Dụng</h3>
-                    <p data-i18n="index.services.import.desc">Xây dựng nhà ở, chung cư, trường học, bệnh viện và các công trình dân dụng khác</p>
-                    <a href="services.html#import" class="service-link" data-i18n="index.services.import.detail">Chi tiết →</a>
+                    <div class="service-icon">🌿</div>
+                    <h4 data-i18n="index.services.import.title">Nước Hoa & Mỹ Phẩm</h4>
+                    <p data-i18n="index.services.import.desc">Bán lẻ nước hoa và mỹ phẩm tại cửa hàng chuyên doanh, nguồn gốc rõ ràng, chất lượng đảm bảo</p>
+                    <a href="services.html#import" data-i18n="index.services.import.detail">Chi tiết →</a>
                 </div>
                 <div class="service-card">
-                    <div class="service-icon">🪑</div>
-                    <h3 data-i18n="index.services.furniture.title">Xây Dựng Công Trình Công Nghiệp</h3>
-                    <p data-i18n="index.services.furniture.desc">Xây dựng nhà xưởng, nhà máy, kho bãi và các công trình công nghiệp chất lượng cao</p>
-                    <a href="services.html#furniture" class="service-link" data-i18n="index.services.furniture.detail">Chi tiết →</a>
+                    <div class="service-icon">🏥</div>
+                    <h4 data-i18n="index.services.furniture.title">Thiết Bị Y Tế</h4>
+                    <p data-i18n="index.services.furniture.desc">Bán lẻ thiết bị y tế, dụng cụ chăm sóc sức khỏe tại cửa hàng chuyên doanh</p>
+                    <a href="services.html#furniture" data-i18n="index.services.furniture.detail">Chi tiết →</a>
                 </div>
                 <div class="service-card">
-                    <div class="service-icon">📦</div>
-                    <h3 data-i18n="index.services.trading.title">Xây Dựng Công Trình Giao Thông</h3>
-                    <p data-i18n="index.services.trading.desc">Xây dựng đường bộ, cầu, hầm và các công trình giao thông hiện đại</p>
-                    <a href="services.html#trading" class="service-link" data-i18n="index.services.trading.detail">Chi tiết →</a>
+                    <div class="service-icon">🧴</div>
+                    <h4 data-i18n="index.services.trading.title">Sản Phẩm Vệ Sinh</h4>
+                    <p data-i18n="index.services.trading.desc">Bán lẻ sản phẩm vệ sinh cá nhân và gia đình tại cửa hàng chuyên doanh</p>
+                    <a href="services.html#trading" data-i18n="index.services.trading.detail">Chi tiết →</a>
                 </div>
                 <div class="service-card">
-                    <div class="service-icon">🤝</div>
-                    <h3 data-i18n="index.services.consulting.title">Xây Dựng Hạ Tầng Kỹ Thuật</h3>
-                    <p data-i18n="index.services.consulting.desc">Xây dựng hệ thống cấp thoát nước, điện, viễn thông và hạ tầng kỹ thuật</p>
-                    <a href="services.html#consulting" class="service-link" data-i18n="index.services.consulting.detail">Chi tiết →</a>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Why Choose Us -->
-    <section class="why-choose section bg-light">
-        <div class="container">
-            <h2 class="section-title" data-i18n="index.whyChoose.title">Tại Sao Chọn HAI PHAT IDC?</h2>
-            <div class="features-grid">
-                <div class="feature-item">
-                    <div class="feature-number">01</div>
-                    <h3 data-i18n="index.whyChoose.exp.title">Kinh Nghiệm Chuyên Sâu</h3>
-                    <p data-i18n="index.whyChoose.exp.desc">Hơn 6 năm kinh nghiệm trong lĩnh vực xây dựng, đã hoàn thành nhiều dự án lớn nhỏ</p>
-                </div>
-                <div class="feature-item">
-                    <div class="feature-number">02</div>
-                    <h3 data-i18n="index.whyChoose.quality.title">Chất Lượng Đảm Bảo</h3>
-                    <p data-i18n="index.whyChoose.quality.desc">Công trình xây dựng chất lượng cao, đảm bảo tiêu chuẩn kỹ thuật, độ bền và an toàn</p>
-                </div>
-                <div class="feature-item">
-                    <div class="feature-number">03</div>
-                    <h3 data-i18n="index.whyChoose.price.title">Giá Cả Cạnh Tranh</h3>
-                    <p data-i18n="index.whyChoose.price.desc">Giá thành hợp lý, báo giá minh bạch, không phát sinh chi phí ẩn</p>
-                </div>
-                <div class="feature-item">
-                    <div class="feature-number">04</div>
-                    <h3 data-i18n="index.whyChoose.delivery.title">Giao Hàng Đúng Hẹn</h3>
-                    <p data-i18n="index.whyChoose.delivery.desc">Cam kết hoàn thành đúng tiến độ, đảm bảo chất lượng công trình cho khách hàng</p>
-                </div>
-                <div class="feature-item">
-                    <div class="feature-number">05</div>
-                    <h3 data-i18n="index.whyChoose.support.title">Hỗ Trợ Tận Tâm</h3>
-                    <p data-i18n="index.whyChoose.support.desc">Đội ngũ tư vấn chuyên nghiệp, hỗ trợ thiết kế và tư vấn giải pháp xây dựng miễn phí</p>
-                </div>
-                <div class="feature-item">
-                    <div class="feature-number">06</div>
-                    <h3 data-i18n="index.whyChoose.warranty.title">Chính Sách Bảo Hành</h3>
-                    <p data-i18n="index.whyChoose.warranty.desc">Bảo hành chất lượng công trình, hỗ trợ bảo trì và sửa chữa khi cần thiết</p>
-                </div>
-            </div>
-        </div>
-    </section>
-
-
-    <!-- Stats Section -->
-    <section class="stats section bg-dark">
-        <div class="container">
-            <div class="stats-grid">
-                <div class="stat-item">
-                    <div class="stat-number">100+</div>
-                    <div class="stat-label" data-i18n="index.stats.projects">Dự án hoàn thành</div>
-                </div>
-                <div class="stat-item">
-                    <div class="stat-number">50+</div>
-                    <div class="stat-label" data-i18n="index.stats.clients">Đối tác tin tưởng</div>
-                </div>
-                <div class="stat-item">
-                    <div class="stat-number">95%</div>
-                    <div class="stat-label" data-i18n="index.stats.satisfied">Khách hàng hài lòng</div>
-                </div>
-                <div class="stat-item">
-                    <div class="stat-number">6+</div>
-                    <div class="stat-label" data-i18n="index.stats.experience">Năm kinh nghiệm</div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- CTA Section -->
-    <section class="cta section">
-        <div class="container">
-            <div class="cta-content">
-                <h2 data-i18n="index.cta.title">Bắt Đầu Dự Án Xây Dựng Của Bạn Ngay Hôm Nay</h2>
-                <p data-i18n="index.cta.subtitle">Liên hệ với chúng tôi để nhận tư vấn miễn phí và báo giá chi tiết</p>
-                <div class="cta-buttons">
-                    <a href="contact.html" class="btn btn-large btn-primary" data-i18n="index.cta.contact">Liên hệ ngay</a>
-                    <a href="tel:0945838333" class="btn btn-large btn-secondary" data-i18n="index.cta.call">Gọi: 0945 838 333</a>
+                    <div class="service-icon">💼</div>
+                    <h4 data-i18n="index.services.consulting.title">Đầu Tư & Công Nghệ</h4>
+                    <p data-i18n="index.services.consulting.desc">Hoạt động đầu tư và ứng dụng công nghệ trong kinh doanh bán lẻ</p>
+                    <a href="services.html#consulting" data-i18n="index.services.consulting.detail">Chi tiết →</a>
                 </div>
             </div>
         </div>
     </section>
 
     <!-- Footer -->
-    <footer class="footer">
+    <footer class="site-footer">
         <div class="container">
             <div class="footer-grid">
                 <div class="footer-col">
-                    <h3 data-i18n="common.logo">HAI PHAT IDC</h3>
-                    <p data-i18n="common.footer.companyDesc">Công ty Cổ phần Đầu tư Phát triển và Xây dựng Hải Phát - Chuyên xây dựng công trình dân dụng, công nghiệp, giao thông và hạ tầng kỹ thuật</p>
-                    <div class="footer-contact">
-                        <p>📍 <span data-i18n="common.footer.address">Thôn 3, Xã Vạn Phúc, Huyện Thanh Trì, Thành phố Hà Nội, Việt Nam</span></p>
-                        <p>📞 <a href="tel:0945838333" data-i18n="common.phone">0945 838 333</a></p>
-                        <p>📧 <a href="mailto:contact@haiphatidc.store" data-i18n="common.footer.email">contact@haiphatidc.store</a></p>
-                    </div>
-                </div>
-                <div class="footer-col">
-                    <h4 data-i18n="common.footer.services">Dịch vụ</h4>
-                    <ul>
-                        <li><a href="services.html#import" data-i18n="common.footer.importExport">Xuất nhập khẩu</a></li>
-                        <li><a href="services.html#furniture" data-i18n="common.footer.furniture">Bán buôn nội thất</a></li>
-                        <li><a href="services.html#trading" data-i18n="common.footer.trading">Dịch vụ thương mại</a></li>
-                        <li><a href="services.html#consulting" data-i18n="common.footer.consulting">Tư vấn kinh doanh</a></li>
-                    </ul>
+                    <h3 data-i18n="common.footer.companyName">CÔNG TY TNHH ĐẦU TƯ VÀ CÔNG NGHỆ TIMI</h3>
+                    <p data-i18n="common.footer.companyDesc">Công ty TNHH Đầu tư và Công nghệ TIMI - Bán lẻ nước hoa, mỹ phẩm, thiết bị y tế và sản phẩm vệ sinh tại cửa hàng chuyên doanh</p>
                 </div>
                 <div class="footer-col">
                     <h4 data-i18n="common.footer.info">Thông tin</h4>
                     <ul>
                         <li><a href="about.html" data-i18n="common.nav.about">Giới thiệu</a></li>
-                    </ul>
-                </div>
-                <div class="footer-col">
-                    <h4 data-i18n="common.footer.support">Hỗ trợ</h4>
-                    <ul>
-                        <li><a href="policies.html" data-i18n="common.footer.warrantyPolicy">Chính sách bảo hành</a></li>
-                        <li><a href="policies.html#delivery" data-i18n="common.footer.deliveryPolicy">Chính sách giao hàng</a></li>
-                        <li><a href="policies.html#return" data-i18n="common.footer.returnPolicy">Chính sách đổi trả</a></li>
+                        <li><a href="services.html" data-i18n="common.nav.services">Dịch vụ</a></li>
+                        <li><a href="policies.html" data-i18n="common.nav.policies">Chính sách</a></li>
                         <li><a href="contact.html" data-i18n="common.nav.contact">Liên hệ</a></li>
                         <li><a href="company-info.html" data-i18n="common.footer.companyInfo">Thông tin doanh nghiệp</a></li>
                     </ul>
                 </div>
+                <div class="footer-col">
+                    <h4 data-i18n="common.footer.addressLabel">Địa chỉ</h4>
+                    <p data-i18n="common.footer.address">Số 17 ngõ 36 Lê Thanh Nghị, Phường Bách Khoa, Quận Hai Bà Trưng, Hà Nội</p>
+                    <p><a href="tel:0357256299" data-i18n="common.phone">0357 256 299</a></p>
+                    <p><a href="mailto:contact@timi-invest.store" data-i18n="common.footer.email">contact@timi-invest.store</a></p>
+                </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; <span data-i18n="common.footer.copyright">2024 Công ty Cổ phần Đầu tư Phát triển và Xây dựng Hải Phát. MST: 0108441190</span></p>
+                <p>&copy; <span data-i18n="common.footer.copyright">2025 Công ty TNHH Đầu tư và Công nghệ TIMI. MST: 0110641831</span></p>
             </div>
         </div>
     </footer>
